@@ -14,8 +14,8 @@ use-site-title: true
 
 ## **Journals**  
 
-- <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>  
-Raquel Romero, Arvind Ramanathan, Tony Yuen, ___D Bhowmik__,, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi        
+- <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>      
+_Raquel Romero, Arvind Ramanathan, Tony Yuen, ___D Bhowmik__,, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi        
 Proceedings of the National Academy of Sciences 116 (11) 5086-5095 2019_   
 
 - <span style="color:blue">Dynamical disparity between hydration shell water and RNA in hydrated RNA system</span>  
