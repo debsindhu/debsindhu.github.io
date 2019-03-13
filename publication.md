@@ -15,20 +15,20 @@ use-site-title: true
 ## **Journals**  
 
 - <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>  
-Raquel Romero, ___D Bhowmik__, Tony Yuen, Mehr Mathews, Lubna Bashir Munshi, Madison Bloch, Se-Min Kim, Maria New, Pramod Mistry, Li Sun, Arvind Ramanathan, Mone Zaidi and Shozeb Haider           
-Proceedings of the National Academy of Sciences (accepted)_   
+Raquel Romero, Arvind Ramanathan, Tony Yuen, ___D Bhowmik__,, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi        
+Proceedings of the National Academy of Sciences 116 (11) 5086-5095 2019_   
 
 - <span style="color:blue">Dynamical disparity between hydration shell water and RNA in hydrated RNA system</span>  
 ___D Bhowmik__, P. Ganesh, B. G. Sumpter, and M. Goswami        
-Physical Review E (accepted)_ 
+Physical Review E 98, 062407 2018_ 
 
 - <span style="color:blue">Small-Angle Neutron Scattering Reveals Energy Landscape for Rhodopsin Photoactivationreceptor</span>  
 S. M. D. C. Perera, U. Chawla, U. Shrestha, ___D Bhowmik__, A. Struts, S. Qian, X-Q. Chu and M. F. Brown        
-Journal of Physical Chemistry Letters (accepted)_
+Journal of Physical Chemistry Letters 9 (24), 7064-71 2018_
 
 - <span style="color:blue">Deep clustering of protein folding simulations</span>   
 ___D Bhowmik__, MT Young, S Gao, A Ramanathan   
-BMC Bioinformatics (accepted)_ 
+BMC Bioinformatics 199 (18), 484 2018_ 
 
 - <span style="color:blue">A comparative study of solvent dynamics in Choline Bromide aqueous solution using combination of neutron scattering technique and molecular dynamics simulation</span>  
 ___D Bhowmik__*       
@@ -52,10 +52,10 @@ bioRxiv, 339879	2018_
 
 - <span style="color:blue">An automated analysis workflow for optimization of force-field parameters using neutron scattering data</span>  
 _VE Lynch, JM Borreguero, __D Bhowmik__, P Ganesh, BG Sumpter, TE Proffen, M Goswami  
-Journal of Computational Physics 340, 128-137	2017_  
+Journal of Computational Physics 340, 128-137 2017_  
 
-- <span style="color:blue">Collective Excitations in Protein as a Measure of Balance Between its Softness and Rigidity</span>  _UR Shrestha, __D Bhowmik__, KW Van Delinder, E Mamontov, H O’Neill, Q Zhang, A Alatas, X-Q Chu  
-J. Phys. Chem. B 121 (5), 923–930	2017_  
+- <span style="color:blue">Collective Excitations in Protein as a Measure of Balance Between its Softness and Rigidity</span>  _UR Shrestha, __D Bhowmik__, KW Van Delinder, E Mamontov, H O’Neill, Q Zhang, A Alatas, X-Q Chu       
+J. Phys. Chem. B 121 (5), 923–930 2017_  
 
 - <span style="color:blue">Quasi-elastic neutron scattering reveals ligand-induced protein dynamics of a G-protein-coupled receptor</span>    
 _UR Shrestha, SMDC Perera, __D Bhowmik__, U Chawla, E Mamontov, MF Brown, X-Q Chu  
@@ -109,6 +109,10 @@ ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
 ## **Conferences** 
+- <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
+_A Ramanathan, ___D Bhowmik__, M Todd Young, C Stanley  
+Bulletin of the American Physical Society 2019_
+
 - <span style="color:blue">Identifying Metastable States of Protein Folding with Deep Clustering Techniques</span>  
 ___D Bhowmik__, A Ramanathan  
 Biophysical Journal 114 (3), 42a 2018_  
