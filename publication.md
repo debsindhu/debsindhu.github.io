@@ -22,8 +22,8 @@ Proceedings of the National Academy of Sciences 116 (11) 5086-5095 2019_
 ___D Bhowmik__, P. Ganesh, B. G. Sumpter, and M. Goswami        
 Physical Review E 98, 062407 2018_ 
 
-- <span style="color:blue">Small-Angle Neutron Scattering Reveals Energy Landscape for Rhodopsin Photoactivationreceptor</span>  
-S. M. D. C. Perera, U. Chawla, U. Shrestha, ___D Bhowmik__, A. Struts, S. Qian, X-Q. Chu and M. F. Brown        
+- <span style="color:blue">Small-Angle Neutron Scattering Reveals Energy Landscape for Rhodopsin Photoactivationreceptor</span>     
+_S. M. D. C. Perera, U. Chawla, U. Shrestha, ___D Bhowmik__, A. Struts, S. Qian, X-Q. Chu and M. F. Brown        
 Journal of Physical Chemistry Letters 9 (24), 7064-71 2018_
 
 - <span style="color:blue">Deep clustering of protein folding simulations</span>   
