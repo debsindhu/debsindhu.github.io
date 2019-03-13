@@ -1,0 +1,48 @@
+---
+layout: page
+title: Debsindhu Bhowmik
+subtitle: Computational Scientist | Oak Ridge National Laboratory  
+use-site-title: true
+---
+
+### **My Research**  
+
+My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
+(MD) simulations and performing Scattering experiments (especially neutron and X-Ray) for problems related to Biomedical and 
+biological sciences. The broader goal is to find how the DL techniques can be optimally applied to the MD simulation 
+coupled with scattering experiments to understand the underneath physics of bio(macro)molecular function, activity, 
+folding, microscopic structure and dynamic behavior at different length and time scale. Additionally taking advantage 
+of various supervised and unsupervised DL algorithms, I am trying to develop tools to study large-scale datasets by 
+learning the inherent hidden features of biomolecules in order to reduce the need for running expensive computation or 
+experiments.  
+
+### **Interestes**     
+
+* Domain
+    * Biological/ Biomedical Science
+    * Complex/ Disordered system
+    * Polymer/ Polyelectrolytes
+    * Soft matter
+    * Proteomics
+    * Gene editing
+* Techniques
+    * Scattering: specially Neutron/ X-ray/ Light
+    * Simulation: specially Molecular Dynamics/ Atomistic/ Agent Based
+    * Modelling
+    * Data Analytics
+    * Deep Learning       
+
+### **Media coverage/ Highlights**    
+
+2018: <span style="color:blue">Molecular shape dictates the dynamic course in narrow channels</span>   
+      Highlights in Advances in Engineering 
+
+2017: <span style="color:blue">Diamonds that deliver: Neutrons, simulation analysis of tRNA-nanodiamond combo could transform drug delivery design principles</span>   
+      Highlights in Oak Ridge National Laboratory (ORNL), US Department of Energy (DOE) Office of Science (SC); mentioned by Under Secretary of Energy for Nuclear Security and Administrator for the National Nuclear Security Administration of the U.S. Department of Energy; and featured in numerous News Reports, Scientific articles, blogs, Twitter, Facebook posts    
+      
+2014: <span style="color:blue">Quasielastic neutron scattering insight into the molecular dynamics of all-polymer nano-composites</span> 
+      featured as Neutron Research: Application Examples for Soft Condensed Matter for Heinz Maier-Leibnitz Zentrum (MLZ)/FRM II, Neutrons for Research, Industry and Medicine
+
+ 
+
+
