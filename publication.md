@@ -110,7 +110,7 @@ Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions
 
 ## **Conferences** 
 - <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
-_A Ramanathan, __D Bhowmik__, __D Bhowmik__, M Todd Young, C Stanley  
+_A Ramanathan, __D Bhowmik__, M Todd Young, C Stanley  
 Bulletin of the American Physical Society 2019_
 
 - <span style="color:blue">Identifying Metastable States of Protein Folding with Deep Clustering Techniques</span>  
