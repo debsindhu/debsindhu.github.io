@@ -27,7 +27,7 @@ _S. M. D. C. Perera, U. Chawla, U. Shrestha, __D Bhowmik__, A. Struts, S. Qian, 
 Journal of Physical Chemistry Letters 9 (24), 7064-71 2018_
 
 - <span style="color:blue">Deep clustering of protein folding simulations</span>   
-___D Bhowmik__, MT Young, S Gao, A Ramanathan   
+___D Bhowmik__, MT Young, S Gao, A Ramanathan    
 BMC Bioinformatics 199 (18), 484 2018_ 
 
 - <span style="color:blue">A comparative study of solvent dynamics in Choline Bromide aqueous solution using combination of neutron scattering technique and molecular dynamics simulation</span>  
