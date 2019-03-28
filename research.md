@@ -34,6 +34,9 @@ experiments.
 
 ### **Media coverage/ Highlights**    
 
+2019: <span style="color:blue">Modified deep-learning algorithms unveil features of shape-shifting proteins</span>   
+      Highlights in Oak Ridge National Laboratory (ORNL) and featured in numerous News Reports, Scientific articles    
+
 2018: <span style="color:blue">Molecular shape dictates the dynamic course in narrow channels</span>   
       Highlights in Advances in Engineering 
 
