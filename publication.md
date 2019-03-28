@@ -111,7 +111,7 @@ Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions
 ## **Conferences** 
 - <span style="color:blue">Towards Native Execution of Deep Learning on a Leadership-Class HPC System</span>  
 _SB Yoginath, M Alam, A Ramanathan, __D Bhowmik__, N Laanait, KS Perumalla  
-2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_ .   
+2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_
 
 - <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
 _A Ramanathan, __D Bhowmik__, M Todd Young, C Stanley  
