@@ -15,7 +15,7 @@ use-site-title: true
 ## **Journals**  
 
 - <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>              
-_Raquel Romero, Arvind Ramanathan, Tony Yuen, __D Bhowmik__, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi        
+_Raquel Romero, Arvind Ramanathan, Tony Yuen, __D Bhowmik__, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi     
 Proceedings of the National Academy of Sciences 116 (11) 5086-5095 2019_   
 
 - <span style="color:blue">Dynamical disparity between hydration shell water and RNA in hydrated RNA system</span>  
@@ -109,6 +109,10 @@ ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
 ## **Conferences** 
+- <span style="color:blue">Towards Native Execution of Deep Learning on a Leadership-Class HPC System</span>  
+_SB Yoginath, M Alam, A Ramanathan, __D Bhowmik__, N Laanait, KS Perumalla  
+2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_ .   
+
 - <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
 _A Ramanathan, __D Bhowmik__, M Todd Young, C Stanley  
 Bulletin of the American Physical Society 2019_
