@@ -11,7 +11,7 @@ use-site-title: true
 - [Scientific Reports](https://www.nature.com/srep/) (Nature Publishing Group)  
 - [Frontiers in Molecular Biosciences](https://www.frontiersin.org/journals/molecular-biosciences/) 
 - [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/)    
-- [Journal of Molecular Liquids](https://www.journals.elsevier.com/journal-of-molecular-liquids/) .   
+- [Journal of Molecular Liquids](https://www.journals.elsevier.com/journal-of-molecular-liquids/)    
 
 ### **Proffessional societies**
 - [Biophysical Society](https://www.biophysics.org/) (BPS)  
