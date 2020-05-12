@@ -13,6 +13,14 @@ use-site-title: true
 
 
 ## **Journals**  
+- <span style="color:blue">Distinct
+Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
+_S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
+biorRxiv 2020_ 
+
+- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>              
+_M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
+Journal of Biological Chemistry 295 (4), 1105-1119 2019_  
 
 - <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>              
 _Raquel Romero, Arvind Ramanathan, Tony Yuen, __D Bhowmik__, Mehr Mathew, Lubna Bashir Munshi, Seher Javaid, Madison Bloch, Daria Lizneva, Alina Rahimova, Ayesha Khan, Charit Taneja, Se-Min Kim, Li Sun, Maria I New, Shozeb Haider, and Mone Zaidi     
@@ -108,7 +116,19 @@ Physical Chemistry Chemical Physics 14 (37), 12898-12904 2012_
 ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam  
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
-## **Conferences** 
+## **Conferences**  
+- <span style="color:blue">Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations</span>  
+_J. Chae, __D Bhowmik__*, H. Ma, A. Ramanathan, and C. Steed      
+IEEE International Conference on Big Data (Big Data), 2020_   
+
+- <span style="color:blue">Deep generative model driven protein folding simulation</span>  
+_H. Ma, __D Bhowmik__, H. Lee, M. Turilli, M. T Young, S. Jha, and A. Ramanathan     
+International Conference on Parallel Computing, 2019_    
+
+- <span style="color:blue">DeepDriveMD: Deep-Learning Driven Adaptive Molecular Simulations for Protein Folding</span>  
+_H. Lee, H. Ma, M. Turilli, __D Bhowmik__, S. Jha, and A. Ramanathan    
+The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC19), IEEE/ACM Third Workshop on Deep Learning on Supercomputers (DLS), 2019_ 
+
 - <span style="color:blue">Towards Native Execution of Deep Learning on a Leadership-Class HPC System</span>  
 _SB Yoginath, M Alam, A Ramanathan, __D Bhowmik__, N Laanait, KS Perumalla  
 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_
