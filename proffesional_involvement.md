@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 ### **Reviewer**  
-- [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/)(Reviewer Board)    
+- [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/) (Reviewer Board)    
 - [Electronics](https://www.mdpi.com/journal/electronics)  
 - [Applied Sciences](https://www.mdpi.com/journal/applsci)   
 - [Entropy](https://www.mdpi.com/journal/entropy)  
