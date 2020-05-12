@@ -5,7 +5,12 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 use-site-title: true
 ---
 
-### **Reviewer**
+### **Reviewer** 
+- [Electronics] (https://www.mdpi.com/journal/electronics)  
+- [Electronics] (https://www.mdpi.com/journal/electronics)  
+- [Applied Sciences] (https://www.mdpi.com/journal/applsci)   
+- [Entropy] (https://www.mdpi.com/journal/entropy)  
+- [Journal of Physical Chemistry] (https://pubs.acs.org/journal/jpcafh)  
 - [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/lrec2018/)
 - [New Journal of Chemistry](http://www.rsc.org/journals-books-databases/about-journals/njc/)  
 - [Scientific Reports](https://www.nature.com/srep/) (Nature Publishing Group)  
