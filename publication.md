@@ -131,7 +131,22 @@ The International Conference for High Performance Computing, Networking, Storage
 
 - <span style="color:blue">Towards Native Execution of Deep Learning on a Leadership-Class HPC System</span>  
 _SB Yoginath, M Alam, A Ramanathan, __D Bhowmik__, N Laanait, KS Perumalla  
-2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_
+2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_  
+
+- <span style="color:blue">Identification of KRAS membrane bound states using an integrated computational and experimental approach</span>  
+_A. G. Stephen, A. Agarwal, A. E. Garcia, G. S. Gnanakaran, J. Hettige, C. Neale, T. Travers, H. Bhatia, P-T
+Bremer, T. Carpenter, J. Glosli, H. Ingolfsson, P. Karande, F. Lightstone, T. Oppelstrup, L. Stanton, S. Sundram,
+X. Zhang, __D Bhowmik__, A. Ramanathan, C. Stanley, D. Goswami, G. Gulten, F. Jean-Francios, D. Simanshu, T.
+Turbyville, R. Shrestha, Q. Van, F. McCormick, D. Nissley, F. Streitz, and C. Agamasu   
+Cancer Research, 79, 3373-3373 2019_  
+
+- <span style="color:blue">Quasielastic and elastic neutron scattering of membrane proteins</span>  
+_S.M.D.C Perera, U. Chawla, U. Shrestha, __D Bhowmik__, A. Struts, S. Qian, X-Q Chu and M. Brown  
+Abstracts of Papers of The American Chemical Society, 257, 2019_   
+
+- <span style="color:blue">Structural Fluctuations in Rhodopsin Activation Revealed by Neutron Scattering</span>  
+_S.M.D.C Perera, U. Chawla, U. Shrestha, __D Bhowmik__, A. Struts, S. Qian, X-Q Chu and M. Brown  
+Biophysical Journal, 116(3),p53a, 2019_   
 
 - <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
 _A Ramanathan, __D Bhowmik__, M Todd Young, C Stanley  
