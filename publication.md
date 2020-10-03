@@ -13,6 +13,22 @@ use-site-title: true
 
 
 ## **Journals**  
+- <span style="color:blue">Uncovering a membrane-distal conformation of KRAS available to recruit RAF to the plasma membrane</span>             
+_Q. N Van, C. A López, M. Tonelli, T. Taylor, B. Niu, C. B Stanley, __D Bhowmik__, T. H Tran, P. H Frank, S. Messing, P. Alexander, D. Scott, X. Ye, M. Drew, O. Chertov, M. Lösche, A. Ramanathan, M. L Gross, N. W Hengartner, W. M Westler, J. L Markley, D. K Simanshu, D. V Nissley, W. K Gillette, D. Esposito, F. McCormick, S. Gnanakaran, F. Heinrich, and A. G Stephen        
+Proceedings of the National Academy of Sciences 117 (39), 24258-24268 2020_   
+
+- <span style="color:blue">Structure-based enzyme engineering improves donor-substrate recognition of Arabidopsis thaliana glycosyltransferases</span>             
+_A. Akere, S. H Chen, X. Liu, Y. Chen, S. C Dantu, A. Pandini, __D Bhowmik__, and S. Haider       
+Biochemical Journal 477 (15), 2791-2805 2020_  
+
+- <span style="color:blue">Supercomputer-Based Ensemble Docking Drug Discovery Pipeline with Application to Covid-19</span>             
+_A. Acharya, R. Agarwal, M. Baker, J. Baudry, __D Bhowmik__, S. Boehm, K. Byler, L. Coates, S. Y-C Chen, C. J Cooper, O. Demerdash, I. Daidone, J. Eblen, S. R Ellingson, S. Forli, J. Glaser, J. C Gumbart, J. Gunnels, O. Hernandez, S. Irle, J. Larkin, T. J Lawrence, S. LeGrand, S. -H Liu, J. C Mitchell, G. Park, J. M Parks, A. Pavlova, L. Petridis, D. Poole, L. Pouchard, A. Ramanathan, D. Rogers, D. Santos-Martins, A. Scheinberg, A. Sedova, S. Shen, J. C Smith, M. Smith, C. Soto, A. Tsaris, M. Thavappiragasam, A. F Tillack, J. V Vermaas, V. Q Vuong, J. Yin, S. Yoo, M. Zahran, and L. Zanetti-Polzi       
+ChemRxiv 2020_ 
+
+- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>             
+_A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
+arXiv preprint arXiv:2007.06225 2020_  
+
 - <span style="color:blue">Distinct
 Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
 _S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
