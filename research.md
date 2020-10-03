@@ -34,6 +34,12 @@ experiments.
 
 ### **Media coverage/ Highlights**    
 
+2020: <span style="color:blue">The hanging heart: How KRAS lures its prey to the membrane</span>   
+      Commentary on The Proceedings of the National Academy of Sciences (PNAS), the official journal of the National Academy of Sciences (NAS)          
+
+2020: <span style="color:blue">Learning Life’s ABCs: AI Models Read Proteins to Fight COVID-19 | Researchers are closing the accuracy gap for a new class of biology tools based on natural-language processing</span>   
+      Highlights in nvidia and featured in blogs.nvidia.com      
+
 2019: <span style="color:blue">Modified deep-learning algorithms unveil features of shape-shifting proteins</span>   
       Highlights in Oak Ridge National Laboratory (ORNL) and featured in News Reports, Scientific articles    
 
