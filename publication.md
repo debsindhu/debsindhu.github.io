@@ -224,6 +224,15 @@ ___D Bhowmik__
 Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_   
 
 ## **Talks** 
+- <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering to Resolve Intrinsically Disordered Protein (IDP) Structures and conformational features of complex systems</span>  
+_American Conference on Neutron Scattering (ACNS 2020) July 2020_  
+
+- <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering, Simulation and Deep learning to study conformational features and dynamics of complex biological macromolecules</span>  
+_3rd HPC SUMMER SCHOOL:	BIO & DATA SCIENCE (cybercolumbia), June 2020_   
+
+- <span style="color:blue">AI-driven multi-modal HPC workflow to incorporate scattering techniques for resolving structural features of phase shifting biomolecules and to reveal distinct structural flexibility within SARS-CoV-2 Spike Protein for potential therapeutic targets</span>  
+_2020 OLCF User conference call: Oak Ridge Leadership Computing Facility, Oak Ridge, USA, April 2020_   
+
 - <span style="color:blue">Identifying Metastable States of Protein Folding with Deep Clustering Techniques</span>  
 _62nd BioPhysical Society Meeting, San Francisco, USA, February 2018_     
 
