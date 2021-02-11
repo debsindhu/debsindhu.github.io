@@ -20,7 +20,7 @@ in [Donostia International Physics Center](http://dipc.ehu.es/index.php?lng=eng)
 [San Sebastián](https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n). By the way if you have not visited San Sebastián please do not delay. I lived here for couple of years before joining the [Wayne State University](https://wayne.edu/), USA. From this time Biological problems became interesting to me. It was almost two years here before I got an offer from 
 [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), USA. The kind of stuffs I used to do during then - scattering experiments & computation for complex system - the ORNL is undoubtedly the unique place because of its neutron sources
 ([SNS](https://neutrons.ornl.gov/sns) & [HFIR](https://neutrons.ornl.gov/hfir)) & 
-[Supercomputer](https://www.ornl.gov/science-area/supercomputing). I ended up joining ORNL towards end of spring 2016.
+[Supercomputer](https://www.ornl.gov/directorate/ccsd). I ended up joining ORNL towards end of spring 2016.
 In Fall 2017 they offered me staff scientist position that I humbly accepted. 
 
 Since then I am here. I have now involved myself more into Data Analytics & started developing Machine Learning,
