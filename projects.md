@@ -21,8 +21,7 @@ Lead Principal Investigator
 Lead Principal Investigator    
 Applications with deep learning (DL) offer important capabilities to assist in identifying new, potential therapeutics through the use of advanced computing. Specifically we are developing upon generative chemistry leveraging within a drug pipeline to create an enhanced search space for docking, screening, and synthesizing new drug-like compounds, while also specifically driving the design of these molecules based on directed metrics.  
 
-- <span style="color:blue">Characterising the structure, dynamics and function of intrinsically disordered proteins (IDPs)
-</span>    
+- <span style="color:blue">Characterising the structure, dynamics and function of intrinsically disordered proteins (IDPs)</span>    
 Lead Principal Investigator    
 
 - <span style="color:blue">RAS proteins in membranes - DOE/NCI Pilot</span>  
