@@ -11,7 +11,7 @@ I am currently working on multiple interesting projects (for more details please
 
 Some of the amazing people who I work with are:    
 
-- [Dr. Arvind Ramanathan : ORNL](https://www.ornl.gov/staff-profile/arvind-ramanathan)    
+- [Dr. Arvind Ramanathan : ANL](https://www.anl.gov/profile/arvind-ramanathan-0)    
 - [Dr. Christopher B. Stanley : ORNL](https://neutrons.ornl.gov/contacts/stanleycb)    
 - [Dr. Hugh Michael O'Neill : ORNL](https://www.ornl.gov/staff-profile/hugh-michael-o-neill)    
 - [Dr. Josh Michener : ORNL](https://www.ornl.gov/staff-profile/josh-michener)    
