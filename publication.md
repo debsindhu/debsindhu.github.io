@@ -25,7 +25,8 @@ Biochemical Journal 477 (15), 2791-2805 2020_
 _A. Acharya, R. Agarwal, M. Baker, J. Baudry, __D Bhowmik__, S. Boehm, K. Byler, L. Coates, S. Y-C Chen, C. J Cooper, O. Demerdash, I. Daidone, J. Eblen, S. R Ellingson, S. Forli, J. Glaser, J. C Gumbart, J. Gunnels, O. Hernandez, S. Irle, J. Larkin, T. J Lawrence, S. LeGrand, S. -H Liu, J. C Mitchell, G. Park, J. M Parks, A. Pavlova, L. Petridis, D. Poole, L. Pouchard, A. Ramanathan, D. Rogers, D. Santos-Martins, A. Scheinberg, A. Sedova, S. Shen, J. C Smith, M. Smith, C. Soto, A. Tsaris, M. Thavappiragasam, A. F Tillack, J. V Vermaas, V. Q Vuong, J. Yin, S. Yoo, M. Zahran, and L. Zanetti-Polzi       
 ChemRxiv 2020_ 
 
-- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>             _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
+- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>  
+_A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
 arXiv preprint arXiv:2007.06225 2020_  
 
 - <span style="color:blue">Distinct
@@ -33,7 +34,8 @@ Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therape
 _S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
 biorRxiv 2020_ 
 
-- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>             _M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
+- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>. 
+_M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
 Journal of Biological Chemistry 295 (4), 1105-1119 2019_  
 
 - <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>              
