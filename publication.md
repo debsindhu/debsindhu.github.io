@@ -133,6 +133,10 @@ ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
 ## **Conferences**  
+- <span style="color:blue">Characterizing KRAS Membrane Structures by Data-Driven Molecular Docking</span>  
+_C B Stanley, Q N Van, F Heinrich, M Losche, ___D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
+Biophysical Journal 120 (3), 25a 2021_    
+
 - <span style="color:blue">Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations</span>  
 _J. Chae, __D Bhowmik__*, H. Ma, A. Ramanathan, and C. Steed      
 IEEE International Conference on Big Data (Big Data), 2020_   
