@@ -5,14 +5,14 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 use-site-title: true
 ---
         
-## **External database**            
+## **External database** (showing only publicly viewable)              
 
 - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7770-9091" href="https://orcid.org/0000-0001-7770-9091" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"> ORCID <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">  </a></div>     
 
 - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
 
-## **Journals**  
+## **Journals** (showing only publicly viewable)    
 - <span style="color:blue">Uncovering a membrane-distal conformation of KRAS available to recruit RAF to the plasma membrane</span>             
 _Q. N Van, C. A López, M. Tonelli, T. Taylor, B. Niu, C. B Stanley, __D Bhowmik__, T. H Tran, P. H Frank, S. Messing, P. Alexander, D. Scott, X. Ye, M. Drew, O. Chertov, M. Lösche, A. Ramanathan, M. L Gross, N. W Hengartner, W. M Westler, J. L Markley, D. K Simanshu, D. V Nissley, W. K Gillette, D. Esposito, F. McCormick, S. Gnanakaran, F. Heinrich, and A. G Stephen        
 Proceedings of the National Academy of Sciences 117 (39), 24258-24268 2020_   
@@ -25,8 +25,7 @@ Biochemical Journal 477 (15), 2791-2805 2020_
 _A. Acharya, R. Agarwal, M. Baker, J. Baudry, __D Bhowmik__, S. Boehm, K. Byler, L. Coates, S. Y-C Chen, C. J Cooper, O. Demerdash, I. Daidone, J. Eblen, S. R Ellingson, S. Forli, J. Glaser, J. C Gumbart, J. Gunnels, O. Hernandez, S. Irle, J. Larkin, T. J Lawrence, S. LeGrand, S. -H Liu, J. C Mitchell, G. Park, J. M Parks, A. Pavlova, L. Petridis, D. Poole, L. Pouchard, A. Ramanathan, D. Rogers, D. Santos-Martins, A. Scheinberg, A. Sedova, S. Shen, J. C Smith, M. Smith, C. Soto, A. Tsaris, M. Thavappiragasam, A. F Tillack, J. V Vermaas, V. Q Vuong, J. Yin, S. Yoo, M. Zahran, and L. Zanetti-Polzi       
 ChemRxiv 2020_ 
 
-- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>             
-_A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
+- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>     _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
 arXiv preprint arXiv:2007.06225 2020_  
 
 - <span style="color:blue">Distinct
@@ -34,8 +33,7 @@ Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therape
 _S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
 biorRxiv 2020_ 
 
-- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>              
-_M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
+- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>             _M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
 Journal of Biological Chemistry 295 (4), 1105-1119 2019_  
 
 - <span style="color:blue">Elucidating The Activation Mechanism Of Glucocerebrosidase And The Structural Role of N370S And L444P Mutations in Gaucher Disease with Deep Learning</span>              
@@ -132,7 +130,7 @@ Physical Chemistry Chemical Physics 14 (37), 12898-12904 2012_
 ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam  
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
-## **Conferences**  
+## **Conferences** (showing only publicly viewable)    
 - <span style="color:blue">Characterizing KRAS Membrane Structures by Data-Driven Molecular Docking</span>  
 _C B Stanley, Q N Van, F Heinrich, M Losche, ___D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
 Biophysical Journal 120 (3), 25a 2021_    
@@ -154,10 +152,7 @@ _SB Yoginath, M Alam, A Ramanathan, __D Bhowmik__, N Laanait, KS Perumalla
 2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW) 2019_  
 
 - <span style="color:blue">Identification of KRAS membrane bound states using an integrated computational and experimental approach</span>  
-_A. G. Stephen, A. Agarwal, A. E. Garcia, G. S. Gnanakaran, J. Hettige, C. Neale, T. Travers, H. Bhatia, P-T
-Bremer, T. Carpenter, J. Glosli, H. Ingolfsson, P. Karande, F. Lightstone, T. Oppelstrup, L. Stanton, S. Sundram,
-X. Zhang, __D Bhowmik__, A. Ramanathan, C. Stanley, D. Goswami, G. Gulten, F. Jean-Francios, D. Simanshu, T.
-Turbyville, R. Shrestha, Q. Van, F. McCormick, D. Nissley, F. Streitz, and C. Agamasu   
+_A. G. Stephen, A. Agarwal, A. E. Garcia, G. S. Gnanakaran, J. Hettige, C. Neale, T. Travers, H. Bhatia, P-T Bremer, T. Carpenter, J. Glosli, H. Ingolfsson, P. Karande, F. Lightstone, T. Oppelstrup, L. Stanton, S. Sundram, X. Zhang, __D Bhowmik__, A. Ramanathan, C. Stanley, D. Goswami, G. Gulten, F. Jean-Francios, D. Simanshu, T. Turbyville, R. Shrestha, Q. Van, F. McCormick, D. Nissley, F. Streitz, and C. Agamasu   
 Cancer Research, 79, 3373-3373 2019_  
 
 - <span style="color:blue">Quasielastic and elastic neutron scattering of membrane proteins</span>  
@@ -222,12 +217,12 @@ Biophysical Journal 108 (2), 59a 2015_
 _A Maulik, __D Bhowmik__, S Dey, S Raha, S Saha, SKSD Syam  
 PROCEEDINGS OF THE 31st ICRC, ŁODZ 2009_    
 
-## **Thesis** 
+## **Thesis** (showing only publicly viewable)   
 - <span style="color:blue">Study of microscopic dynamics of complex ﬂuids containing charged hydrophobic species by neutron scattering coupled with molecular dynamics simulations</span>  
 ___D Bhowmik__  
 Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_   
 
-## **Talks** 
+## **Talks** (showing only publicly viewable)   
 - <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering to Resolve Intrinsically Disordered Protein (IDP) Structures and conformational features of complex systems</span>  
 _American Conference on Neutron Scattering (ACNS 2020) July 2020_  
 
@@ -279,7 +274,7 @@ _Journée des doctorants du LLB, CEA-Saclay, June 2011_
 - <span style="color:blue">Behaviour of Tetrabutylammonium ions in aqueous medium and solvent dynamics</span>  
 _Physicochimie des Electrolytes, Colloïdes et Sciences Analytiques (PECSA), UPMC, Paris, Nov 2009_  
 
-## **Posters**  
+## **Posters** (showing only publicly viewable)    
 - <span style="color:blue">Enhanced dynamics of RNA on Nanodiamonds Surfaces: An effective synergistic study by combining Neutron Scattering, theoretical modeling and MD Simulation</span>  
 ___D Bhowmik__  
 ORPA Research Symposium, Oak Ridge National Laboratory, Aug 2017_   
