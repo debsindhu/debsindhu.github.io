@@ -37,6 +37,9 @@ experiments.
 2020: <span style="color:blue">The hanging heart: How KRAS lures its prey to the membrane</span>   
       Commentary on The Proceedings of the National Academy of Sciences (PNAS), the official journal of the National Academy of Sciences (NAS)   
       
+2020: <span style="color:blue">Bhowmik applies supercomputing, AI to analyze COVID-19</span>   
+      news in ORNL Today        
+
 2020: <span style="color:blue">New Studies Highlight MCS Physics Group's Innovative Contributions to Cancer Research</span>   
       news in Mellon College of Science, Carnegie Mellon University    
 
