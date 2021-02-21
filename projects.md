@@ -14,11 +14,7 @@ A short overview of my current research can be found in the [Brief outline](http
 - <span style="color:blue">Data-driven CRISPR design</span>  
 Lead Principal Investigator    
 
-- <span style="color:blue">Accelerating simulations using machine/deep learning learning techniques</span>
-
-- <span style="color:blue">Studying flexible biomolecular systems by data-driven integration of cryo-EM, scattering
-and MD simulations </span>     
-Co-Principal Investigator
+- <span style="color:blue">Accelerating simulations using machine/deep learning learning techniques</span>   
 
 - <span style="color:blue">RAS proteins in membranes - DOE/NCI Pilot</span>
 
@@ -26,6 +22,11 @@ Co-Principal Investigator
 </span>      
 
 #### **Past Projects**         
+
+- <span style="color:blue">Studying flexible biomolecular systems by data-driven integration of cryo-EM, scattering
+and MD simulations </span>     
+Co-Principal Investigator 
+We developed an integrated experimental and computational pipeline utilizing multi-scale molecular simulations and scalable statistical inference techniques to meaningfully fuse partial information from multi-modal experimental observations. We demonstrate our AI-driven approach enables dintinguishable shift in characterizing conformational events that underlie complex biological phenomena. The framework also facilitate broader targeting of synthetic and systems biology for directed self-assembly of complex materials systems and probe disordered/soft materials by establishing a virtual facility that integrates strengths across national laboratories.    
 
 - <span style="color:blue">Influence of molecular shape on self-diffusion under severe confinement: A molecular dynamics study
 </span>    
