@@ -34,7 +34,7 @@ Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therape
 _S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
 biorRxiv 2020_ 
 
-- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>. 
+- <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>  
 _M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
 Journal of Biological Chemistry 295 (4), 1105-1119 2019_  
 
