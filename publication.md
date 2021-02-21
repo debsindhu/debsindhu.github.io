@@ -166,7 +166,7 @@ Abstracts of Papers of The American Chemical Society, 257, 2019_
 
 - <span style="color:blue">Structural Fluctuations in Rhodopsin Activation Revealed by Neutron Scattering</span>  
 _S.M.D.C Perera, U. Chawla, U. Shrestha, __D Bhowmik__, A. Struts, S. Qian, X-Q Chu and M. Brown  
-Biophysical Journal, 116(3),p53a, 2019_   
+Biophysical Journal, 116(3), p53a, 2019_   
 
 - <span style="color:blue">Towards Exascale Bio-molecular Simulations with Artificial Intelligence Workflows</span>  
 _A Ramanathan, __D Bhowmik__, M Todd Young, C Stanley  
