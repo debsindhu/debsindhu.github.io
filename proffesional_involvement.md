@@ -10,7 +10,6 @@ use-site-title: true
     - [Publons](https://publons.com/researcher/1194490/debsindhu-bhowmik/) <a href="https://publons.com/researcher/1194490/debsindhu-bhowmik/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Publons_logo.png" height="20"></a>        
 
 * #### **Reviewer**    
-    - [Publons](https://publons.com/researcher/1194490/debsindhu-bhowmik/)      
     - [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/) (Reviewer Board)    
     - [Electronics](https://www.mdpi.com/journal/electronics)  
     - [Applied Sciences](https://www.mdpi.com/journal/applsci)   
