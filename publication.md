@@ -25,7 +25,7 @@ Biochemical Journal 477 (15), 2791-2805 2020_
 _A. Acharya, R. Agarwal, M. Baker, J. Baudry, __D Bhowmik__, S. Boehm, K. Byler, L. Coates, S. Y-C Chen, C. J Cooper, O. Demerdash, I. Daidone, J. Eblen, S. R Ellingson, S. Forli, J. Glaser, J. C Gumbart, J. Gunnels, O. Hernandez, S. Irle, J. Larkin, T. J Lawrence, S. LeGrand, S. -H Liu, J. C Mitchell, G. Park, J. M Parks, A. Pavlova, L. Petridis, D. Poole, L. Pouchard, A. Ramanathan, D. Rogers, D. Santos-Martins, A. Scheinberg, A. Sedova, S. Shen, J. C Smith, M. Smith, C. Soto, A. Tsaris, M. Thavappiragasam, A. F Tillack, J. V Vermaas, V. Q Vuong, J. Yin, S. Yoo, M. Zahran, and L. Zanetti-Polzi       
 ChemRxiv 2020_ 
 
-- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>     _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
+- <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>             _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
 arXiv preprint arXiv:2007.06225 2020_  
 
 - <span style="color:blue">Distinct
