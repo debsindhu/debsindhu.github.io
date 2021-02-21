@@ -29,7 +29,7 @@ Co-Principal Investigator
 We developed an integrated experimental and computational pipeline utilizing multi-scale molecular simulations and scalable statistical inference techniques to meaningfully fuse partial information from multi-modal experimental observations. We demonstrate our AI-driven approach enables dintinguishable shift in characterizing conformational events that underlie complex biological phenomena. The framework also facilitate broader targeting of synthetic and systems biology for directed self-assembly of complex materials systems and probe disordered/soft materials by establishing a virtual facility that integrates strengths across national laboratories.    
 
 - <span style="color:blue">Influence of molecular shape on self-diffusion under severe confinement: A molecular dynamics study
-</span>    
+</span>  
 We have investigated the effect of molecular shape and charge asymmetry on the translation dynamics of confined hydrocarbon molecules having different shapes but similar kinetic diameters, inside ZSM-5 pores using molecular dynamics simulations. Overall the difference in shape and asymmetry in charge imposes severe restriction inside the ZSM-5 channels for all the molecules to different extents. Further, the behavior of molecules confined in ZSM-5, quantified wherever possible, is compared to their behavior in bulk or in other porous media reported in literature.    
 
 - <span style="color:blue">Collective Excitations in Protein as a Measure of Balance Between its Softness and Rigidity
