@@ -13,10 +13,10 @@ use-site-title: true
 
 * ### **_University days_**   
    - **_[Jadavpur University](http://www.jaduniv.edu.in/)_**   
-   This is when I thought I would return to history soon but let's learn some Physics first. So I went to study Physics in university. I completed the Bachelors' & Masters' degree from [Jadavpur University](http://www.jaduniv.edu.in/) in Kolkata. During this time the _atomic scale_ Physics became my most intersting domain. 
+   This is when I thought I would return to history soon but let's learn some Physics first. For that I went to study Physics in university. I completed the Bachelors' & Masters' degree from [Jadavpur University](http://www.jaduniv.edu.in/) in Kolkata. During this time the _atomic scale_ Physics became my most intersting domain. 
  
    - **_[Université Pierre et Marie Curie(UPMC)](http://www.upmc.fr/en/)_**   
-   I went to [Laboratoire Léon Brillouin (LLB)](http://www-llb.cea.fr/) & [Université Pierre et Marie Curie(UPMC)](http://www.upmc.fr/en/), Paris for persuing my doctoral degree. I received the CFR grant for my doctoral work from [CEA](http://www-centre-saclay.cea.fr/en). This is where I learned about the scattering techniques & the Molecular Dynamics simulation. The time that I spent in Paris during my Ph.D days was extraordinary in every sense. As I was nearing the end of my Ph.D I could sense I wanted more. 
+   So I went to [Laboratoire Léon Brillouin (LLB)](http://www-llb.cea.fr/) & [Université Pierre et Marie Curie(UPMC)](http://www.upmc.fr/en/), Paris for persuing my doctoral degree. I received the CFR grant for my doctoral work from [CEA](http://www-centre-saclay.cea.fr/en). This is where I learned about the scattering techniques & the Molecular Dynamics simulation. The time that I spent in Paris during my Ph.D days was extraordinary in every sense. As I was nearing the end of my Ph.D I could sense I wanted more. 
 
 * ### **_Post-Ph.D_**   
  So I decided to continue as Postdoc - 
