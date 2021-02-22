@@ -12,14 +12,14 @@ use-site-title: true
    I was born in Tamluk. If you do not know about _Tamluk_ that is fine. Here is quick read about [Tamluk from Wikipedia](https://en.wikipedia.org/wiki/Tamluk). They say my hometown is atleast about _5150 years old_. I grew up beside the banks of river _Rupnarayana_. The bay of Bengal is not that far from my home. When I was in my school I developed quite a interest in _History_ - especially ancient time histories - they still fascinate me. Towards the end of my high school I got attracted to Physics. 
 
 * ### **_University days_**   
-   - **_[Jadavpur University](http://www.jaduniv.edu.in/)_**   
+   - **_[Jadavpur](https://en.wikipedia.org/wiki/Jadavpur)_**   
    This is when I thought I would return to history soon but let's learn some Physics first. For that I went to study Physics in university. I completed the Bachelors' & Masters' degree from [Jadavpur University](http://www.jaduniv.edu.in/) in Kolkata. During this time the _atomic scale_ Physics became my most intersting domain. 
  
-   - **_[Université Pierre et Marie Curie(UPMC)](http://www.upmc.fr/en/)_**   
+   - **_[Paris)](https://en.wikipedia.org/wiki/Paris)_**   
    So I went to [Laboratoire Léon Brillouin (LLB)](http://www-llb.cea.fr/) & [Université Pierre et Marie Curie(UPMC)](http://www.upmc.fr/en/), Paris for persuing my doctoral degree. I received the CFR grant for my doctoral work from [CEA](http://www-centre-saclay.cea.fr/en). This is where I learned about the scattering techniques & the Molecular Dynamics simulation. The time that I spent in Paris during my Ph.D days was extraordinary in every sense. As I was nearing the end of my Ph.D I could sense I wanted more. 
 
 * ### **_Post-Ph.D_**   
- So I decided to continue as Postdoc - 
+   So I decided to continue as Postdoc - 
 
    - **_[San Sebastian](https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n)_**   
    I landed up in [Donostia International Physics Center](http://dipc.ehu.es/index.php?lng=eng), Spain. This is in [San Sebastián](https://en.wikipedia.org/wiki/San_Sebasti%C3%A1n). By the way if you have not visited San Sebastián please do not delay. I lived here for couple of years before joining the [Wayne State University](https://wayne.edu/), USA. 
