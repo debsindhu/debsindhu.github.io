@@ -28,7 +28,7 @@ use-site-title: true
    From this time at [Wayne State University](https://wayne.edu/) Biological problems became interesting to me. It was almost two years here before I got an offer from [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/), USA. The kind of stuffs I used to do during then - scattering experiments & computation for complex system - the ORNL is undoubtedly the unique place because of its neutron sources ([SNS](https://neutrons.ornl.gov/sns) & [HFIR](https://neutrons.ornl.gov/hfir)) & [Supercomputer](https://www.ornl.gov/directorate/ccsd).    
   
    - **_[Oak Ridge](https://en.wikipedia.org/wiki/Oak_Ridge,_Tennessee)_**     
-   I ended up joining ORNL towards end of spring 2016. In Fall 2017 they offered me staff scientist position that I humbly accepted. Since then I am here. I have now involved myself more into Data Analytics & started developing Machine Learning, Deep Learning tools for complex biological system to complement the scattering experiments & computation requirements. Apart from my research I like reading - primarily economics & politics, new discoveries & historical documents.  
+   I ended up joining [ORNL](https://www.ornl.gov/) towards end of spring 2016. In Fall 2017 they offered me staff scientist position that I humbly accepted. Since then I am here. I have now involved myself more into Data Analytics & started developing Machine Learning, Deep Learning tools for complex biological system to complement the scattering experiments & computation requirements. Apart from my research I like reading - primarily economics & politics, new discoveries & historical documents.  
 
 
 
