@@ -9,7 +9,7 @@ use-site-title: true
 
 * ### **_Childhood_**   
    - **_[Tamluk](https://en.wikipedia.org/wiki/Tamluk)_**   
-   I was born in Tamluk. If you do not know about _Tamluk_ that is fine. Here is quick read about [Tamluk from Wikipedia](https://en.wikipedia.org/wiki/Tamluk). They say my hometown is atleast about _5150 years old_. I grew up beside the banks of river _Rupnarayana_. The bay of Bengal is not that far from my home. When I was in my school I developed quite a interest in _History_ - especially ancient time histories - they still fascinate me. Towards the end of my high school I got attracted to Physics. 
+   I was born in [Tamluk]((https://en.wikipedia.org/wiki/Tamluk)). If you do not know about _Tamluk_ that is fine. Here is quick read about [Tamluk from Wikipedia](https://en.wikipedia.org/wiki/Tamluk). They say my hometown is atleast about _[5150 years old](https://en.wikipedia.org/wiki/Tamralipta)_. I grew up beside the banks of river _[Rupnarayana](https://en.wikipedia.org/wiki/Rupnarayan_River)_. The [Bay of Bengal](https://en.wikipedia.org/wiki/Bay_of_Bengal) is not that far from my home. When I was in my school I developed quite a interest in _History_ - especially ancient time histories - they still fascinate me. Towards the end of my high school I got attracted to Physics. 
 
 * ### **_University days_**   
    - **_[Jadavpur](https://en.wikipedia.org/wiki/Jadavpur)_**   
