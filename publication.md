@@ -12,9 +12,8 @@ use-site-title: true
 
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
-![Publications]
 <p align="center">
-  <img width="50%" height="40%" src="./img/pub.png">
+  <img width="50%" height="40%" src="/img/pub.png">
 </p>
 * #### **Journals** (showing only publicly viewable)    
     - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
