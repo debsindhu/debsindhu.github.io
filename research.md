@@ -20,9 +20,7 @@ folding, microscopic structure and dynamic behavior at different length and time
 of various supervised and unsupervised DL algorithms, I am trying to develop tools to study large-scale datasets by 
 learning the inherent hidden features of biomolecules in order to reduce the need for running expensive computation or 
 experiments.  
-</div>
-<!--
-</p>     
+</div>      
 
 ### **Interestes**     
 
