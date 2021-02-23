@@ -12,6 +12,7 @@ use-site-title: true
 
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
+|![ORNL](img/pub.png){:height="40%" width="100%"}| (img/ornlaerial2014.jp)  
 * #### **Journals** (showing only publicly viewable)    
     - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
 _A. E. Blanchard, C. B Stanley, and __D Bhowmik__*        
