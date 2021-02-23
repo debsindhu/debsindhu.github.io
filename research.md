@@ -7,11 +7,6 @@ use-site-title: true
 
 ### **My Research**  
 
-<p float="left">
-  <img src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png" width="100" />
-  <img src="https://www.ornl.gov/sites/default/files/2019-03/Slide1_1.png" /> 
-</p>
-
 <img style="float:   
   display: block;
   max-width: 50%;
