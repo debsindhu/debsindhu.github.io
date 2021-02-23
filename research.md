@@ -13,12 +13,7 @@ use-site-title: true
   height: 3;
   margin: 3; 
   left;" src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png">  
-<img style="float:   
-  display: block;
-  max-width: 50%;
-  height: 3;
-  margin: 3; 
-  right;" src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png">  
+
 My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
 (MD) simulations and performing Scattering experiments (especially neutron and X-Ray) for problems related to Biomedical and 
 biological sciences. The broader goal is to find how the DL techniques can be optimally applied to the MD simulation 
@@ -27,6 +22,13 @@ folding, microscopic structure and dynamic behavior at different length and time
 of various supervised and unsupervised DL algorithms, I am trying to develop tools to study large-scale datasets by 
 learning the inherent hidden features of biomolecules in order to reduce the need for running expensive computation or 
 experiments.        
+
+<img style="float:   
+  display: block;
+  max-width: 50%;
+  height: 3;
+  margin: 3; 
+  right;" src="https://www.ornl.gov/sites/default/files/2019-03/Slide1_1.png">     
 
 ### **Interestes**     
 
