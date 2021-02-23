@@ -9,8 +9,8 @@ use-site-title: true
 
 <img style="float:   display: block;
   max-width: 50%;
-  height: auto;
-  margin: auto; left;" src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png"> 
+  height: 3;
+  margin: 3; left;" src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png"> 
 My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
 (MD) simulations and performing Scattering experiments (especially neutron and X-Ray) for problems related to Biomedical and 
 biological sciences. The broader goal is to find how the DL techniques can be optimally applied to the MD simulation 
