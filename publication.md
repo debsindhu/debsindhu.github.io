@@ -5,14 +5,15 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 use-site-title: true
 ---
         
-## **External database** (showing only publicly viewable)              
+### **Reviewing activities** (showing only publicly viewable)  
+* ### **External database** (showing only publicly viewable)              
 
 - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7770-9091" href="https://orcid.org/0000-0001-7770-9091" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"> ORCID <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">  </a></div>     
 
 - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
 
-## **Journals** (showing only publicly viewable)    
+* ### **Journals** (showing only publicly viewable)    
 - <span style="color:blue">Uncovering a membrane-distal conformation of KRAS available to recruit RAF to the plasma membrane</span>             
 _Q. N Van, C. A López, M. Tonelli, T. Taylor, B. Niu, C. B Stanley, __D Bhowmik__, T. H Tran, P. H Frank, S. Messing, P. Alexander, D. Scott, X. Ye, M. Drew, O. Chertov, M. Lösche, A. Ramanathan, M. L Gross, N. W Hengartner, W. M Westler, J. L Markley, D. K Simanshu, D. V Nissley, W. K Gillette, D. Esposito, F. McCormick, S. Gnanakaran, F. Heinrich, and A. G Stephen        
 Proceedings of the National Academy of Sciences 117 (39), 24258-24268 2020_   
@@ -132,7 +133,7 @@ Physical Chemistry Chemical Physics 14 (37), 12898-12904 2012_
 ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam  
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
-## **Conferences** (showing only publicly viewable)    
+* ### **Conferences** (showing only publicly viewable)    
 - <span style="color:blue">Characterizing KRAS Membrane Structures by Data-Driven Molecular Docking</span>  
 _C B Stanley, Q N Van, F Heinrich, M Losche, __D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
 Biophysical Journal 120 (3), 25a 2021_    
@@ -219,12 +220,12 @@ Biophysical Journal 108 (2), 59a 2015_
 _A Maulik, __D Bhowmik__, S Dey, S Raha, S Saha, SKSD Syam  
 PROCEEDINGS OF THE 31st ICRC, ŁODZ 2009_    
 
-## **Thesis** (showing only publicly viewable)   
+* ### **Thesis** (showing only publicly viewable)   
 - <span style="color:blue">Study of microscopic dynamics of complex ﬂuids containing charged hydrophobic species by neutron scattering coupled with molecular dynamics simulations</span>  
 ___D Bhowmik__  
 Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_   
 
-## **Talks** (showing only publicly viewable)   
+* ### **Talks** (showing only publicly viewable)   
 - <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering to Resolve Intrinsically Disordered Protein (IDP) Structures and conformational features of complex systems</span>  
 _American Conference on Neutron Scattering (ACNS 2020) July 2020_  
 
@@ -276,7 +277,7 @@ _Journée des doctorants du LLB, CEA-Saclay, June 2011_
 - <span style="color:blue">Behaviour of Tetrabutylammonium ions in aqueous medium and solvent dynamics</span>  
 _Physicochimie des Electrolytes, Colloïdes et Sciences Analytiques (PECSA), UPMC, Paris, Nov 2009_  
 
-## **Posters** (showing only publicly viewable)    
+* ### **Posters** (showing only publicly viewable)    
 - <span style="color:blue">Enhanced dynamics of RNA on Nanodiamonds Surfaces: An effective synergistic study by combining Neutron Scattering, theoretical modeling and MD Simulation</span>  
 ___D Bhowmik__  
 ORPA Research Symposium, Oak Ridge National Laboratory, Aug 2017_   
