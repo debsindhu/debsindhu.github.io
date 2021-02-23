@@ -134,7 +134,7 @@ Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions
 
 ## **Conferences** (showing only publicly viewable)    
 - <span style="color:blue">Characterizing KRAS Membrane Structures by Data-Driven Molecular Docking</span>  
-_C B Stanley, Q N Van, F Heinrich, M Losche, ___D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
+_C B Stanley, Q N Van, F Heinrich, M Losche, __D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
 Biophysical Journal 120 (3), 25a 2021_    
 
 - <span style="color:blue">Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations</span>  
