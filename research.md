@@ -7,6 +7,9 @@ use-site-title: true
 
 ### **My Research**  
 
+</style>
+<img class="mix" src="img/modifieddeep.png" align='left' height="38%" width="38%" style="margin: 15px 35px 15px 0px">  
+
 My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
 (MD) simulations and performing Scattering experiments (especially neutron and X-Ray) for problems related to Biomedical and 
 biological sciences. The broader goal is to find how the DL techniques can be optimally applied to the MD simulation 
