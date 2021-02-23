@@ -6,15 +6,15 @@ use-site-title: true
 ---
         
 ### **Publications** (showing only publicly viewable)  
+<p align="center">
+  <img width="50%" height="40%" src="/img/pub.png">
+</p>  
 * #### **External database** (showing only publicly viewable)              
 
     - <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7770-9091" href="https://orcid.org/0000-0001-7770-9091" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"> ORCID <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">  </a></div>     
 
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
-<p align="center">
-  <img width="50%" height="40%" src="/img/pub.png">
-</p>
 * #### **Journals** (showing only publicly viewable)    
     - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
 _A. E. Blanchard, C. B Stanley, and __D Bhowmik__*        
