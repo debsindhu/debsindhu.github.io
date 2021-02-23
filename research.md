@@ -13,7 +13,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-}. 
+}
+</style>
 <img src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png" height="150" style="margin: 15px 35px 15px 0px"></a>  
 
 My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
