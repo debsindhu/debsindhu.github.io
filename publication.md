@@ -13,6 +13,10 @@ use-site-title: true
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
 * #### **Journals** (showing only publicly viewable)    
+    - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
+_A. E. Blanchard, C. B Stanley, and __D Bhowmik__*        
+Journal of Cheminformatics 13 (14), 2021_   
+
     - <span style="color:blue">Uncovering a membrane-distal conformation of KRAS available to recruit RAF to the plasma membrane</span>             
 _Q. N Van, C. A López, M. Tonelli, T. Taylor, B. Niu, C. B Stanley, __D Bhowmik__, T. H Tran, P. H Frank, S. Messing, P. Alexander, D. Scott, X. Ye, M. Drew, O. Chertov, M. Lösche, A. Ramanathan, M. L Gross, N. W Hengartner, W. M Westler, J. L Markley, D. K Simanshu, D. V Nissley, W. K Gillette, D. Esposito, F. McCormick, S. Gnanakaran, F. Heinrich, and A. G Stephen        
 Proceedings of the National Academy of Sciences 117 (39), 24258-24268 2020_   
