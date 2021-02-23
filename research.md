@@ -12,8 +12,7 @@ use-site-title: true
   max-width: 50%;
   height: 3;
   margin: 3; 
-  left;" 
-  href="https://www.ornl.gov/news/diamonds-deliver";  
+  left;"   
   src="https://www.ornl.gov/sites/default/files/new_nanodiamond_0001.png">  
 
 My current work primarily lies on the interface of implementing Deep Learning (DL) techniques, running Molecular Dynamics
@@ -31,8 +30,7 @@ experiments.
   height: 3;
   margin: 3; 
   right;" 
-  src="https://www.ornl.gov/sites/default/files/2019-03/Slide1_1.png"; target="blank"; 
-  href="https://www.ornl.gov/news/modified-deep-learning-algorithms-unveil-features-shape-shifting-proteins">     
+  src="https://www.ornl.gov/sites/default/files/2019-03/Slide1_1.png">     
 
 ### **Interestes**     
 
