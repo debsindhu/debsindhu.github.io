@@ -6,6 +6,9 @@ use-site-title: true
 ---
 
 ### **My Research**  
+<p align="center">
+  <img width="60%" height="40%" src="/img/research.png">
+</p> 
 
 <img style="float:   
   display: block;
