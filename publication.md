@@ -7,7 +7,7 @@ use-site-title: true
         
 ### **Publications** (showing only publicly viewable)  
 <p align="center">
-  <img width="50%" height="40%" src="/img/pub.png">
+  <img width="60%" height="40%" src="/img/pub.png">
 </p>  
 * #### **External database** (showing only publicly viewable)              
 
