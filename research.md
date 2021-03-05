@@ -31,6 +31,12 @@ My current work lies on the interface of implementing Deep Learning (DL) techniq
 ### **Media**    
 
 * News/ Highlights  
+    * 2021: <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>   
+      highlight in Computational Sciences and Engineering   
+    
+    * 2021: <span style="color:blue">The hanging heart: How KRAS lures its prey to the membrane</span>   
+      Commentary on The Proceedings of the National Academy of Sciences (PNAS), the official journal of the National Academy of Sciences (NAS)  
+    
     * 2020: <span style="color:blue">The hanging heart: How KRAS lures its prey to the membrane</span>   
       Commentary on The Proceedings of the National Academy of Sciences (PNAS), the official journal of the National Academy of Sciences (NAS)   
       
