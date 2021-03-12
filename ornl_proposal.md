@@ -8,7 +8,7 @@ use-site-title: true
 ### **Proposal | ORNL Resources**      
 
 
-- Neutron Science : Beamtime at SNS & HFIR:     
+- Neutron Science : Beamtime at SNS and HFIR:     
 
   - [Overview](https://neutrons.ornl.gov/users/proposal-types)    
     
