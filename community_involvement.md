@@ -11,4 +11,4 @@ use-site-title: true
 
    - [Oak Ridge Computer Science girls](https://www.orcsgirls.org/)     
    
-   - [Da Vinci Arts & Science Fair](https://sites.google.com/site/davinciartssciencefair//home)   
+   - [Da Vinci Arts and Science Fair](https://sites.google.com/site/davinciartssciencefair//home)   
