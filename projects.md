@@ -10,7 +10,7 @@ use-site-title: true
   <img width="60%" height="40%" src="/img/diagram.png">
 </p> 
 
-Overall my research is interdisciplinary spanning diverse domains and techniques like illustrated above. A short overview of my current research can be found in the [Brief outline](https://debsindhu.github.io/research/) section. Below here some of my current & past projects are listed down. Most of the projects (specially Past ones) produced multiple publications including journal, proceedings or talks/posters. The following descriptions are taken from those to help describe the work quickly. For more details please consult the original publications that can be found in [Publication](https://debsindhu.github.io/publication/) section or feel free to drop me a note or email.   
+Overall my research is interdisciplinary spanning diverse domains and techniques like illustrated above. A short overview of my current research can be found in the [Brief outline](https://debsindhu.github.io/research/) section. Below here some of my current and past projects are listed down. Most of the projects (specially Past ones) produced multiple publications including journal, proceedings or talks/posters. The following descriptions are taken from those to help describe the work quickly. For more details please consult the original publications that can be found in [Publication](https://debsindhu.github.io/publication/) section or feel free to drop me a note or email.   
 
 #### **Current Projects**    
 
