@@ -5,7 +5,7 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 ---
 
 ### **Contacts**    
-I am always open to collaborate & willing to implement new stuffs. If you think I could be anyway helpful please do not 
+I am always open to collaborate and willing to implement new stuffs. If you think I could be anyway helpful please do not 
 hesitate to drop me an email. 
 
 - **Mailing address**:  
