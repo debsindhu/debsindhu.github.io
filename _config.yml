@@ -31,7 +31,7 @@ navbar-links:
     - Community service: "community_involvement"
     - Backstory: "backstory"
   Research:
-    - Brief outline: "research"
+    - Brief outline and media : "research"
     - Projects: "projects"
     - Grants: "grants"
     - Collaborations: "collaboration"
