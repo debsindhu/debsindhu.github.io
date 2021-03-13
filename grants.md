@@ -5,7 +5,7 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 use-site-title: true
 ---
 
-### **Grants**    
+### **Grants/ Funding**    
 
 | Source | Type: _Description_ | Capacity | Duration | Amount |   
 | :------ | :--- | :--- | :--- | :--- | 
