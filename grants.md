@@ -12,6 +12,7 @@ use-site-title: true
 | DOE | Project: _Data-centric Approach to the Design of Novel Therapeutics Against COVID-19_ | Co-I | 2021 | ~$500000 | 
 | DOE | Project: _Exploration of the Potential for Artificial Intelligence and Machine Learning to Advance Low-Dose Radiation Biology Research (RadBio-AI)_ | Co-I | 2021-22 | ~$5000000 |  
 | NCI/DOE | Project: _Joint Design of Advanced Computing Solutions for Cancer_ | ORNL technical lead  | 2017-23 | ~$500000 | 
+| DOE/NVBL | Project: _National Virtual Biotechnology Laboratory_ | Co-I | 2021 | ~$700000 |  
 | DOE/IBM (hpc consortium) | Project: _Discovering molecular targets of the human coronavirus with HPC and AI_ | Lead PI | 2020-21 | 250000 SUMMIT node hours | 
 | LDRD/DOE | Project: _Flexible privacy-enabled platform for sensitive applications_ | Co-PI | 2020-22 | ~$1040000 |
 | LDRD/DOE | Project: _Rational CRISPR design for ecological engineering of microbiomes_ | Lead PI | 2019-21 | ~$900000 |
