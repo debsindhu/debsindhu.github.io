@@ -16,6 +16,10 @@ use-site-title: true
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
 * #### **Journals** (showing only publicly viewable)    
+    - <span style="color:blue">Structural dynamics of the β-coronavirus Mpro protease ligand binding sites</span>             
+_E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S. C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A. Mey, __D Bhowmik__, S. Haider*        
+Journal of Chemical Information and Modeling (in press), 2021_   
+
     - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
 _A. E. Blanchard, C. B Stanley, and __D Bhowmik__*        
 Journal of Cheminformatics 13 (14), 2021_   
