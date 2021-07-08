@@ -38,7 +38,7 @@ ChemRxiv 2020_
 
     - <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>  
 _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
-arXiv preprint arXiv:2007.06225 2020_  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (early access)_  
 
     - <span style="color:blue">Distinct
 Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
