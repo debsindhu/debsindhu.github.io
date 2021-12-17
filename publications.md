@@ -254,6 +254,12 @@ ___D Bhowmik__
 Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_   
 
 * #### **Talks** (showing only publicly viewable)   
+    - <span style="color:blue">Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>  
+_IEEE Big Data Conference, December 2021_  
+
+    - <span style="color:blue">Deep Predictive Visual Proteomics</span>  
+_2021 Southeastern Regional Meeting, November 2021_   
+
     - <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering to Resolve Intrinsically Disordered Protein (IDP) Structures and conformational features of complex systems</span>  
 _American Conference on Neutron Scattering (ACNS 2020) July 2020_  
 
