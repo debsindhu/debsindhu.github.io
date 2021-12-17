@@ -16,6 +16,11 @@ use-site-title: true
     - [Google Scholar](https://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en) <a href="http://scholar.google.com/citations?user=nHwDs_sAAAAJ&hl=en" target="_blank"><img src="https://scholar.google.com/scholar/scholar_sm.gif" height="15"></a> 
 
 * #### **Journals** (showing only publicly viewable)    
+
+    - <span style="color:blue">Application of Machine Learning Techniques to an Agent-Based Model of Pantoea</span>             
+___D Bhowmik__, D. Mukherjee, M. Oxley, M. Ziatdinov, S. Jesse, S. Kalinin, O. Ovchinnikova, Building an edge computing infrastructure for rapid multi-dimensional electron microscopy, 
+Microsc. Microanal. 27 (1), 2021_          
+
     - <span style="color:blue">Application of Machine Learning Techniques to an Agent-Based Model of Pantoea</span>             
 _S. H. Chen, P. Londoño-Larrea, A. S. McGough, A. N. Bible, C. Gunaratne, P. A. Araujo-Granda, J. L. Morrell-Falvey, __D Bhowmik__, M. Fuentes-Cabrera           
 Frontiers in Microbiology 12 (726409), 1-10 2021_   
@@ -30,7 +35,7 @@ Frontiers in Microbiology 12 (720991), 1-17 2021_
 
     - <span style="color:blue">Structural dynamics of the β-coronavirus Mpro protease ligand binding sites</span>             
 _E. Cho, M. Rosa, R. Anjum, S. Mehmood, M. Soban, M. Mujtaba, K. Bux, S. C. Dantu, A. Pandini, J. Yin, H. Ma, A. Ramanathan, B. Islam, A. Mey, __D Bhowmik__, S. Haider         
-Journal of Chemical Information and Modeling 8 (in press), 2021_   
+Journal of Chemical Information and Modeling 61 (6), 2021_   
 
     - <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>             
 _A. E. Blanchard, C. B Stanley, and __D Bhowmik__*        
