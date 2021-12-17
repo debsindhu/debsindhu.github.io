@@ -31,6 +31,15 @@ My current work lies on the interface of implementing Deep Learning (DL) techniq
 ### **Media**    
 
 * News/ Highlights  
+    * 2021: <span style="color:blue">Fighting COVID-19 with HPC</span>   
+      Nature Computational Science     
+      
+    * 2021: <span style="color:blue">ORNL Study on COVID-19 Earns Gordon Bell Prize Nomination </span>   
+      News on Inside HPC    
+      
+    * 2021: <span style="color:blue">DARWIN ON FAST FORWARD: ORNL STUDY ON COVID-19 EARNS GORDON BELL SPECIAL PRIZE NOMINATION</span>   
+      Press release   
+      
     * 2021: <span style="color:blue">Countering COVID:</span>   
       News in ASCR Discovery: Advances Science through Computing   
     
