@@ -9,6 +9,10 @@ use-site-title: true
 
 | Source | Type: _Description_ | Capacity | Duration | Amount |   
 | :------ | :--- | :--- | :--- | :--- | 
+| LDRD/DOE | Project: _AISD: AI for Scientific Design & Discovery_ | Co-I | 2022 | ~$1600000 |  
+| DOE INCITE | Project: _Scalable Transformer Language Models for Drug Discovery_ | Co-I | 2022 | 390000 SUMMIT node hours |  
+| LDRD/DOE | Project: _Multiscale Computational Framework for Precision Dosimetry_ | Contributor | 2022-23 | ~$500000 |  
+| LDRD/DOE | Project: _Automated microscopy: 4D STEM and physics discovery_ | Co-I | 2022-24 | ~$1855000 | 
 | DOE | Project: _High Performance and reduced-cost manufacturability of electrochromic (EC) devices_ | Co-PI | 2022 | ~$300000 | 
 | DOE | Project: _Data-centric Approach to the Design of Novel Therapeutics Against COVID-19_ | Co-I | 2021 | ~$500000 | 
 | DOE | Project: _Exploration of the Potential for Artificial Intelligence and Machine Learning to Advance Low-Dose Radiation Biology Research (RadBio-AI)_ | Co-I | 2021-22 | ~$5000000 |  
