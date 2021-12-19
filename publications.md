@@ -258,7 +258,13 @@ Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_
 _IEEE Big Data Conference, December 2021_  
 
     - <span style="color:blue">Deep Predictive Visual Proteomics</span>  
-_2021 Southeastern Regional Meeting, November 2021_   
+_2021 Southeastern Regional Meeting, November 2021_ 
+
+    - <span style="color:blue">Deep Predictive Visual Proteomics</span>  
+_Integrative Biology: from molecules to the ecosystem in health and medicine, August 2021_  
+
+    - <span style="color:blue">Deep Predictive Visual Proteomics</span>  
+_Department of Biological Sciences, IISER Kolkata, July 2021_  
 
     - <span style="color:blue">AI-Driven Multi-Modal HPC Workflow Incorporating Neutron Scattering to Resolve Intrinsically Disordered Protein (IDP) Structures and conformational features of complex systems</span>  
 _American Conference on Neutron Scattering (ACNS 2020) July 2020_  
