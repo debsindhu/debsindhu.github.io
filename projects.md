@@ -60,7 +60,7 @@ Nanodiamond (ND) inherits most of the superior properties of bulk diamond and de
 
 - <span style="color:blue">Quasielastic neutron scattering (QENS) insight into the molecular dynamics of all-polymer nano-composites</span>    
 *Lead Investigator*    
-QENS has selectively revealed the component dynamics in isotopically labelled nano-composites (NCs) where single-chain nano-particles (SCNPs) based on PMMA, poly(methyl methacrylate)] are mixed with PEO, poly(ethylene oxide). Effects on the α-methyl group dynamics of SCNPs have been characterized. PEO dynamics shows deviations from Gaussian behavior which become more pronounced with increasing concentration of SC- NPs.    
+QENS has selectively revealed the component dynamics in isotopically labelled nano-composites (NCs) where single-chain nano-particles (SCNPs) based on PMMA, poly(methyl methacrylate)] are mixed with PEO, poly(ethylene oxide). Effects on the α-methyl group dynamics of SCNPs have been characterized. PEO dynamics shows deviations from Gaussian behavior which become more pronounced with increasing concentration of SC-NPs.    
 
 - <span style="color:blue">Study of microscopic dynamics of complex ﬂuids containing charged hydrophobic species by neutron scattering coupled with molecular dynamics simulations</span>  
 *Lead Investigator*    
