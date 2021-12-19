@@ -15,7 +15,11 @@ Overall my research is interdisciplinary spanning diverse domains and techniques
 #### **Current Projects**     
 
 - <span style="color:blue">Accelerating simulations using high-performance computing and machine/deep learning learning techniques</span>  
-Lead Principal Investigator      
+Lead Principal Investigator  
+
+- <span style="color:blue">Comprehensive novel AI based approach to fight against COVID-19</span>  
+Lead Principal Investigator   
+Successful, efficient and faster drug discovery efforts to fight against COVID-19 pandemic requires effective collaboration among computational scientists, clinical chemists and biologists. Traditional wet-lab experiments are resource (time, economical, energy, human-hour) demanding and draining. With advent of AI, generating new drug molecules and finding drug or therapeutic targets are now efficient, faster and accurate. Deep clustering and AI driven steered simulation are prominent tool to achieve this.  
 
 - <span style="color:blue">Generative biochemistry</span>  
 Lead Principal Investigator    
