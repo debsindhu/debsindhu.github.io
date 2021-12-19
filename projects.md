@@ -12,25 +12,26 @@ use-site-title: true
 
 Overall my research is interdisciplinary spanning diverse domains and techniques like illustrated above. A short overview of my current research can be found in the [Brief outline](https://debsindhu.github.io/research/) section. Below here some of my current and past projects are listed down. Most of the projects (specially Past ones) produced multiple publications including journal, proceedings or talks/posters. The following descriptions are taken from those to help describe the work quickly. For more details please consult the original publications that can be found in [Publication](https://debsindhu.github.io/publication/) section or feel free to drop me a note or email.   
 
-#### **Current Projects**    
+#### **Current Projects**     
 
-- <span style="color:blue">Data-driven CRISPR design</span>  
-Lead Principal Investigator    
-
-- <span style="color:blue">Accelerating simulations using machine/deep learning learning techniques</span>  
+- <span style="color:blue">Accelerating simulations using high-performance computing and machine/deep learning learning techniques</span>  
 Lead Principal Investigator      
 
 - <span style="color:blue">Generative biochemistry</span>  
 Lead Principal Investigator    
 Applications with deep learning (DL) offer important capabilities to assist in identifying new, potential therapeutics through the use of advanced computing. Specifically we are developing upon generative chemistry leveraging within a drug pipeline to create an enhanced search space for docking, screening, and synthesizing new drug-like compounds, while also specifically driving the design of these molecules based on directed metrics.  
 
+
+#### **Past Projects**     
+
+- <span style="color:blue">Data-driven CRISPR design</span>  
+Lead Principal Investigator   
+
 - <span style="color:blue">Characterising the structure, dynamics and function of intrinsically disordered proteins (IDPs)</span>    
 Lead Principal Investigator    
 
 - <span style="color:blue">RAS proteins in membranes - DOE/NCI Pilot</span>  
-Technical Lead (ORNL)     
-
-#### **Past Projects**         
+Technical Lead (ORNL) 
 
 - <span style="color:blue">Studying flexible biomolecular systems by data-driven integration of cryo-EM, scattering
 and MD simulations </span>  
