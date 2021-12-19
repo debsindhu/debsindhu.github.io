@@ -7,7 +7,8 @@ use-site-title: true
 
 ### **Position held** 
 
-* 2017-Present: Staff Scientist, [Oak Ridge National Laboratory](https://www.ornl.gov/), USA
+* 2017-Present: Staff Scientist, [Oak Ridge National Laboratory](https://www.ornl.gov/), USA 
+* 2020-Present: Joint faculty Proffesor, [Bredesen Center for Interdisciplinary Research and Graduate Education, The University of Tennessee, Knoxville (UTK) and ORNL](https://bredesencenter.utk.edu/), USA 
 * 2016-2017: Research Associate, [Oak Ridge National Laboratory](https://www.ornl.gov/), USA 
 * 2014-2016: Research Scholar, [Wayne State University](https://wayne.edu/), USA 
 * 2011-2013: Postdoctoral Researcher, [Donostia International Physics Center](http://dipc.ehu.es/index.php?lng=eng), Spain 
