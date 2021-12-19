@@ -44,6 +44,7 @@ We developed an integrated experimental and computational pipeline utilizing mul
 
 - <span style="color:blue">Influence of molecular shape on self-diffusion under severe confinement: A molecular dynamics study
 </span>  
+Lead Investigator   
 We have investigated the effect of molecular shape and charge asymmetry on the translation dynamics of confined hydrocarbon molecules having different shapes but similar kinetic diameters, inside ZSM-5 pores using molecular dynamics simulations. Overall the difference in shape and asymmetry in charge imposes severe restriction inside the ZSM-5 channels for all the molecules to different extents. Further, the behavior of molecules confined in ZSM-5, quantified wherever possible, is compared to their behavior in bulk or in other porous media reported in literature.    
 
 - <span style="color:blue">Collective Excitations in Protein as a Measure of Balance Between its Softness and Rigidity
@@ -61,15 +62,18 @@ Inorganic pyrophosphatase (IPPase) from Thermococcus thioredu- cens is a large o
 β-relaxation dynamics of proteins was studied in the time ranges from 2 to 25 ps, and from 100 ps to 2 ns, using two spectrometers. Our results indicate that, under a pressure of 100 MPa, close to that of the native environment deep under the sea, IPPase displays much faster relaxation dynamics than a mesophilic model protein, hen egg white lysozyme (HEWL), at all measured temperatures, opposite to what we observed previously under ambient pressure. This contradictory observation provides evidence that the protein energy landscape is distorted by high pressure, which is significantly different for hyperthermophilic (IPPase) and mesophilic (HEWL) proteins. We further derive from our observations a schematic denaturation phase diagram together with energy landscapes for the two very different proteins, which can be used as a general picture to understand the dynamical properties of thermophilic proteins under pressure.  
 
 - <span style="color:blue">Effect of Nanodiamond Surfaces on tRNA Dynamics Studied by Neutron Scattering and MD 
-Simulations</span>    
+Simulations</span>   
+Lead Investigator    
 Nanodiamond (ND) inherits most of the superior properties of bulk diamond and delivers them at the nanoscale. ND is non-toxic and possesses excellent mechanical and optical properties with large surface area and surface functionality. ND mixed with biomolecules can be a good platform for drug delivery. Here we demonstrate the adsorption of tRNA on the ND surface and investigate the change in the tRNA dynamics using neutron scattering technique and molecular dynamics (MD) Simulations. We compare the dynamics of hydrated tRNA on ND surfaces with that of  freestanding hydrated tRNA molecules and dry tRNA on ND surfaces. Both experiments and simulations show that the relaxational dynamics of tRNA on ND surface is faster than that of the freestanding tRNA molecules and dry tRNA on ND surfaces. Our results suggest that the tRNA on the ND surfaces has fewer hydration water molecules on it due to the water adsorption on the ND hydrophilic surface. Therefore fewer hydrogen bonds formed on its surface results in the tRNA faster motion. The MD simulations also show a 'caged' dynamics of the water molecules adsorbed on the ND surfaces.    
 
 - <span style="color:blue">Quasielastic neutron scattering (QENS) insight into the molecular dynamics of all-polymer
 nano-composites</span>    
+Lead Investigator   
 QENS has selectively revealed the component dynamics in isotopically labelled nano-composites (NCs) where single-chain nano-particles (SCNPs) based on PMMA, poly(methyl methacrylate)] are mixed with PEO, poly(ethylene oxide). Effects on the α-methyl group dynamics of SCNPs have been characterized. PEO dynamics shows deviations from Gaussian behavior which become more pronounced with increasing concentration of SC- NPs.    
 
 - <span style="color:blue">Study of microscopic dynamics of complex ﬂuids containing charged hydrophobic species
 by neutron scattering coupled with molecular dynamics simulations</span>  
+Lead Investigator   
 Symmetric tetraalkylammonium (TAA) cations are model systems to study the behaviour of hydrophobic ions. In this work, concentrated aqueous solutions of TAA bromides are investigated to obtain information on micro- scopic structure and dynamics of both the ions and solvent, by a combination of Neutron Scattering and Molecular Dynamics (MD) simulations. It is shown that TAA cations do not aggregate in aqueous solution even at high concentrations, they are penetrable for both the Br anions and solvent water molecules. The average water orientation is tangential around the cation surface, which contrasts with the simple alkali cations, such as Na+. Using quasi-elastic neutron scattering (Neutron Spin Echo and Time of Flight techniques) and with the aid of MD simulations, the dynamics in the coherent and incoherent neutron scattering signal is decoupled. The former is identified with the center-of-mass (CoM) motion of a single TAA cation, while the latter, based on the signal of individual H atoms of the TAA cation, is a complex combination of the CoM motion and H movements internal to the cation. MD helps to identify the timescale of the global cation rotation. The slowing down of water dynamics in these solutions relative to bulk water is also made evident, though the effect is lower than might be expected.    
       
 - <span style="color:blue">Characterization of polyethylene terephthalate (PET) detector to search for rare events
