@@ -28,6 +28,21 @@ My current work lies on the interface of implementing Deep Learning (DL) techniq
     * Data Analytics
     * Deep Learning       
 
+### **Honors**   
+
+* Honors/ Awards   
+    * 2021: Distinguished Technical contribution, CSED, Oak Ridge National Laboratory 
+    * 2021: Gordon Bell Special Prize Nomination 
+    * 2021: Service Award, Oak Ridge National Laboratory  
+    * 2021: Certificate of recognition, Department of Energy (DOE)  
+    * 2020: COVID19 HPC consortium award  
+    * 2019: Promising Scientist, CSED, Oak Ridge National Laboratory  
+    * 2019: Distinguished Paper Early Impact, CSED, Oak Ridge National Laboratory  
+    * 2015: UMCP/NIST (National Institute of Standards & Technology) Outreach Program  
+    * 2014: American Conference on Neutron Scattering, Travel Award  
+    * 2008: CFR thesis award from CEA (French Atomic Energy Commission), France    
+
+
 ### **Media**    
 
 * News/ Highlights  
