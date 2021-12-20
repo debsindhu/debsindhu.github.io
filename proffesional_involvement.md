@@ -15,6 +15,7 @@ use-site-title: true
     - [Applied Sciences](https://www.mdpi.com/journal/applsci)   
     - [Entropy](https://www.mdpi.com/journal/entropy)  
     - [Symmetry](https://www.mdpi.com/journal/symmetry) 
+    - [Sustainability](https://www.mdpi.com/journal/sustainability)  
     - [International Journal of Environmental Research and Public Health](https://www.mdpi.com/journal/ijerph)  
     - [International Workshop on Mining Scientific Publications](https://wosp.core.ac.uk/lrec2018/)  
     - [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)  
