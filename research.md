@@ -55,7 +55,7 @@ My current work lies on the interface of implementing Deep Learning (DL) techniq
     * 2021: <span style="color:blue">DARWIN ON FAST FORWARD: ORNL STUDY ON COVID-19 EARNS GORDON BELL SPECIAL PRIZE NOMINATION</span>   
       Press release   
       
-    * 2021: <span style="color:blue">Countering COVID:</span>   
+    * 2021: <span style="color:blue">Countering COVID  </span>   
       News in ASCR Discovery: Advances Science through Computing   
     
     * 2021: <span style="color:blue">Using GANs with adaptive training data to search for new molecules</span>   
