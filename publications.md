@@ -23,7 +23,7 @@ Transactions on Evolutionary Computation, 2022_
 
     - <span style="color:blue">How Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
 _S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
-biorRxiv 2020_ 
+IEEE International Conference on Big Data (Big Data) 2022_ 
 
     - <span style="color:blue">Building an edge computing infrastructure for rapid multi-dimensional electron microscopy</span>             
 ___D Bhowmik__, D. Mukherjee, M. Oxley, M. Ziatdinov, S. Jesse, S. Kalinin, O. Ovchinnikova, Building an edge computing infrastructure for rapid multi-dimensional electron microscopy, 
