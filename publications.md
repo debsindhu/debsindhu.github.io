@@ -17,7 +17,15 @@ use-site-title: true
 
 * #### **Journals** (showing only publicly viewable)    
 
-    - <span style="color:blue">Application of Machine Learning Techniques to an Agent-Based Model of Pantoea</span>             
+    - <span style="color:blue">Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model</span>             
+_A. E. Blanchard, M. C. Shekar, S. Gao, J. Gounley, I. Lyngaas, J. Glaser, and __D Bhowmik__, 
+Transactions on Evolutionary Computation, 2022_  
+
+    - <span style="color:blue">How Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
+_S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
+biorRxiv 2020_ 
+
+    - <span style="color:blue">Building an edge computing infrastructure for rapid multi-dimensional electron microscopy</span>             
 ___D Bhowmik__, D. Mukherjee, M. Oxley, M. Ziatdinov, S. Jesse, S. Kalinin, O. Ovchinnikova, Building an edge computing infrastructure for rapid multi-dimensional electron microscopy, 
 Microsc. Microanal. 27 (1), 2021_          
 
@@ -26,7 +34,7 @@ _S. H. Chen, P. Londoño-Larrea, A. S. McGough, A. N. Bible, C. Gunaratne, P. A.
 Frontiers in Microbiology 12 (726409), 1-10 2021_   
 
     - <span style="color:blue">Inter-Subunit Dynamics Controls Tunnel Formation During the Oxygenation Process in Hemocyanin Hexamers</span>             
-_K. Bux, X. Shen, M. Tariq, J. Yin, S. T. Moin, __D Bhowmik__, S. Haider         
+_K. Bux, X. Shen, M. Tariq, J. Yin, S. T. Moin, __D Bhowmik__, S. Haider, 
 Frontiers in Molecular Biosciences 8 (710623), 1-17 2021_ 
 
     - <span style="color:blue">The Role of Hydrophobic Nodes in the Dynamics of Class A β-Lactamases</span>             
@@ -53,14 +61,9 @@ Biochemical Journal 477 (15), 2791-2805 2020_
 _A. Acharya, R. Agarwal, M. Baker, J. Baudry, __D Bhowmik__, S. Boehm, K. Byler, L. Coates, S. Y-C Chen, C. J Cooper, O. Demerdash, I. Daidone, J. Eblen, S. R Ellingson, S. Forli, J. Glaser, J. C Gumbart, J. Gunnels, O. Hernandez, S. Irle, J. Larkin, T. J Lawrence, S. LeGrand, S. -H Liu, J. C Mitchell, G. Park, J. M Parks, A. Pavlova, L. Petridis, D. Poole, L. Pouchard, A. Ramanathan, D. Rogers, D. Santos-Martins, A. Scheinberg, A. Sedova, S. Shen, J. C Smith, M. Smith, C. Soto, A. Tsaris, M. Thavappiragasam, A. F Tillack, J. V Vermaas, V. Q Vuong, J. Yin, S. Yoo, M. Zahran, and L. Zanetti-Polzi       
 ChemRxiv 2020_ 
 
-    - <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span>  
+    - <span style="color:blue">ProtTrans: Towards Cracking the Language of Life's Code Through Self-Supervised Deep Learning and High Performance Computing</span> 
 _A. Elnaggar, M. Heinzinger, C. Dallago, G. Rihawi, Y. Wang, L. Jones, T. Gibbs, T. Feher, C. Angerer, __D Bhowmik__, and B. Rost     
 IEEE Transactions on Pattern Analysis and Machine Intelligence (early access)_  
-
-    - <span style="color:blue">Distinct
-Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
-_S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
-biorRxiv 2020_ 
 
     - <span style="color:blue">Biochemical and structural analyses reveal that the tumor suppressor neurofibromin (NF1) forms a high-affinity dimer</span>  
 _M. Sherekar, S-W Han, R. Ghirlando, S. Messing, M. Drew, D. Rabara, T. Waybright, P. Juneja, H. O'Neill, C. B. Stanley, __D Bhowmik__, A. Ramanathan, S. Subramaniam, D. V Nissley, W. Gillette, F. McCormick, and D. Esposito     
