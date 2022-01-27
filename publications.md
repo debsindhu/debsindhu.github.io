@@ -22,7 +22,7 @@ _A. E. Blanchard, M. C. Shekar, S. Gao, J. Gounley, I. Lyngaas, J. Glaser, and _
 Transactions on Evolutionary Computation, 2022_  
 
     - <span style="color:blue">How Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>              
-_S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__*         
+_S. H. Chen, M. T. Young, J. Gounley, C. Stanley, and __D Bhowmik__,         
 IEEE International Conference on Big Data (Big Data) 2022_ 
 
     - <span style="color:blue">Building an edge computing infrastructure for rapid multi-dimensional electron microscopy</span>             
