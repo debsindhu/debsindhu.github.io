@@ -46,6 +46,9 @@ My current work lies on the interface of implementing Deep Learning (DL) techniq
 ### **Media**    
 
 * News/ Highlights  
+    * 2022: <span style="color:blue">Supercomputing, AI expose potential pathways for inhibiting COVID-19</span>   
+      Press release     
+      
     * 2021: <span style="color:blue">Fighting COVID-19 with HPC</span>   
       Nature Computational Science     
       
