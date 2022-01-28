@@ -28,7 +28,7 @@ navbar-links:
     - ORNL home: "https://www.ornl.gov/staff-profile/debsindhu-bhowmik"
     - Proffesional activity: "proffesional_involvement"
     - Teaching: "teaching"
-    - Community service: "community_involvement"
+    - Community involvement: "community_involvement" 
     - Backstory: "backstory"
   Research:
     - Brief outline and media : "research"
