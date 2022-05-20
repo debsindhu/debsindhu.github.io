@@ -11,6 +11,7 @@ use-site-title: true
 
 * #### **Reviewer** (showing only publicly viewable)      
     - [Frontiers in Chemistry, Frontiers](https://www.frontiersin.org/journals/chemistry) (Review Editor)  
+    - [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/) (Reviewer Board) 
     - [Scientific Reports](https://www.nature.com/srep/) (Nature Publishing Group) 
     - [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)  
     - [Computational and Structural Biotechnology Journal](https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal)  
@@ -19,7 +20,6 @@ use-site-title: true
     - [New Journal of Chemistry](http://www.rsc.org/journals-books-databases/about-journals/njc/)  
     - [Journal of Physical Chemistry](https://pubs.acs.org/journal/jpcafh)  
     - [Journal of Molecular Liquids](https://www.journals.elsevier.com/journal-of-molecular-liquids/)    
-    - [Machine Learning and knowledge Extraction, MDPI](https://www.mdpi.com/journal/make/) (Reviewer Board)    
     - [Electronics](https://www.mdpi.com/journal/electronics)  
     - [Applied Sciences](https://www.mdpi.com/journal/applsci)   
     - [Entropy](https://www.mdpi.com/journal/entropy)  
