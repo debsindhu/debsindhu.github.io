@@ -10,6 +10,7 @@ use-site-title: true
     - [Publons](https://publons.com/researcher/1194490/debsindhu-bhowmik/) <a href="https://publons.com/researcher/1194490/debsindhu-bhowmik/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Publons_logo.png" height="20"></a>        
 
 * #### **Reviewer** (showing only publicly viewable)      
+    - [Frontiers in Chemistry, Frontiers](https://www.frontiersin.org/journals/chemistry) (Review Editor)  
     - [Scientific Reports](https://www.nature.com/srep/) (Nature Publishing Group) 
     - [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)  
     - [Computational and Structural Biotechnology Journal](https://www.journals.elsevier.com/computational-and-structural-biotechnology-journal)  
