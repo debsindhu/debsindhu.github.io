@@ -12,7 +12,7 @@ use-site-title: true
 
 My current work lies on the interface of implementing Deep Learning (DL) techniques, running multi-scale high performance accelerated simulations and performing scattering experiments (especially neutron and X-Ray) for problems related to soft matter systems especially Biomedical and biological sciences, and to make new drug molecules with desired properties. The broader goal is to find how the DL techniques can be optimally applied to the multi-scale modeling and simulation coupled with scattering experiments to understand the underneath physics of bio(macro)molecular function, activity, folding, microscopic structure and dynamic behavior at different length and time scale and whether that knowledge could lead to designing new therapeutics. Additionally, I am trying to develop tools to study large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for running expensive computation or experiments.          
 
-### **Interestes**     
+### **Interests**     
 
 * Domain
     * Biological/ Biomedical Science
