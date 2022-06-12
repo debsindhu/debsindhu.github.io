@@ -20,7 +20,7 @@ use-site-title: true
     folding, microscopic structure and dynamic behavior at different length and time scale and whether that knowledge 
     could lead to designing new therapeutics</strong>. Additionally, he is trying to develop AI tools to study 
     large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for 
-    expensive computation or experiments.   
+    expensive computation or experiments.</p>    
 
 
 ### **Interests**     
