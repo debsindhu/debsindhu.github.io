@@ -10,9 +10,9 @@ use-site-title: true
   <img width="60%" height="40%" src="/img/research.png">
 </p> 
 
-* General Overview: His current work 
-    * lies on the interface of implementing Artificial Intelligence (AI) techniques, deploying multi-scale high performance accelerated simulations and         performing scattering experiments (especially neutron and X-Ray) for problems related to soft matter systems especially Biomedical and biological         sciences, and   
-    * is to make new drug molecules with desired properties. 
+* General Overview: His current work lies on the interface of implementing Artificial Intelligence (AI) techniques, deploying multi-scale high performance       accelerated simulations and performing scattering experiments (especially neutron and X-Ray) for problems related to 
+    * soft matter systems especially Biomedical and biological sciences, and   
+    * making new drug molecules with desired properties. 
 * Broader Goal: 
     * Optimal use of AI in integrative molecular approach: to find how the AI techniques can be optimally applied to the multi-scale modeling and               simulation coupled with experiments 
     * Deriving fundamental Physics: to understand the underneath physics of bio(macro)molecular function, activity, folding, microscopic 
