@@ -13,14 +13,12 @@ use-site-title: true
 <p>His current work lies on the interface of implementing Artificial Intelligence (AI) techniques, 
     deploying multi-scale high performance accelerated simulations and performing scattering experiments 
     (especially neutron and X-Ray) for problems related to soft matter systems especially Biomedical and biological sciences, 
-    and to make new drug molecules with desired properties.</p>  
-    
-    <p>The broader goal is <i><strong>to find how the AI techniques can be optimally applied to the multi-scale modeling and 
+    and to make new drug molecules with desired properties. The broader goal is to find how the AI techniques can be optimally applied to the multi-scale modeling and 
     simulation coupled with experiments to understand the underneath physics of bio(macro)molecular function, activity, 
     folding, microscopic structure and dynamic behavior at different length and time scale and whether that knowledge 
-    could lead to designing new therapeutics</strong>. Additionally, he is trying to develop AI tools to study 
+    could lead to designing new therapeutics. Additionally, he is trying to develop AI tools to study 
     large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for 
-    expensive computation or experiments.</p>    
+    expensive computation or experiments</p>  
 
 
 ### **Interests**     
