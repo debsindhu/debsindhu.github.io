@@ -18,7 +18,7 @@ use-site-title: true
 <p>The broader goal is <i><strong>to find how the AI techniques can be optimally applied to the multi-scale modeling and 
     simulation coupled with experiments to understand the underneath physics of bio(macro)molecular function, activity, 
     folding, microscopic structure and dynamic behavior at different length and time scale and whether that knowledge 
-    could lead to designing new therapeutics</i></strong>. Additionally, he is trying to develop AI tools to study 
+    could lead to designing new therapeutics</strong>. Additionally, he is trying to develop AI tools to study 
     large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for 
     expensive computation or experiments.</p>          
 
