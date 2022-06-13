@@ -17,7 +17,7 @@ use-site-title: true
     * **Optimal use of AI in integrative molecular approach:** to find how the AI techniques can be optimally applied to the multi-scale modeling and               simulation coupled with experiments 
     * **Deriving fundamental Physics:** to understand the underneath physics of bio(macro)molecular function, activity, folding, microscopic 
       structure and dynamic behavior at different length and time scale and whether that knowledge could lead to designing new therapeutics. 
-    * **Reducing need for expensive computing and experiments using AI:** Additionally, developing AI tools to study 
+    * **Reducing need for expensive computing and experiments by using AI:** Additionally, developing AI tools to study 
       large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for expensive computation or experiments. 
 
 ### **Interests**     
