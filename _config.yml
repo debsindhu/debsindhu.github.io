@@ -24,21 +24,21 @@ description: Personal Website | Homepage
 # List of links in the navigation bar
 navbar-links:
   About me:
-    - Profile: "profile"
-    - ORNL home: "https://www.ornl.gov/staff-profile/debsindhu-bhowmik"
+    - Profile: "profile" 
+    - Media and Honors: "ornl_proposal" 
+    - work ar ORNL: "https://www.ornl.gov/staff-profile/debsindhu-bhowmik"
     - Proffesional activity: "proffesional_involvement"
     - Teaching: "teaching"
     - Community involvement: "community_involvement" 
     - Backstory: "backstory"
   Research:
-    - Brief outline and media : "research"
-    - Projects: "projects"
+    - Brief outline: "research"
+    - Projects: "projects" 
+    - Publication: "publications" 
     - Grants: "grants"
-    - Collaborations: "collaboration"
-    - Publication: "publications"  
+    - Collaborations: "collaboration" 
   Opportunity: 
-    - Open Position: "open_position"
-    - ORNL proposal: "ornl_proposal"
+    - Open Position: "open_position" 
     - Work at ORNL: "research_opportunity"
   Contact: "contact"
 
