@@ -10,8 +10,6 @@ use-site-title: true
   <img width="60%" height="40%" src="/img/research.png">
 </p> 
 
-Please take a sneak peek on my research at [Projects](https://debsindhu.github.io/projects/) section.
-
 * General Overview: My current work lies on the interface of implementing Artificial Intelligence (AI) techniques, deploying multi-scale high performance       accelerated simulations and performing scattering experiments (especially neutron and X-Ray) for problems related to 
     * *soft matter systems especially Biomedical and biological sciences*, and   
     * *making new drug molecules with desired properties*. 
@@ -21,6 +19,8 @@ Please take a sneak peek on my research at [Projects](https://debsindhu.github.i
       structure and dynamic behavior at different length and time scale and whether that knowledge could lead to designing new therapeutics. 
     * **Reducing need for expensive computing and experiments by using AI:** Additionally, developing AI tools to study 
       large-scale datasets by learning the inherent hidden features of biomolecules in order to reduce the need for expensive computation or experiments. 
+
+* Sneak peek: Please take a sneak peek on my research at [Projects](https://debsindhu.github.io/projects/) section. 
 
 ### **Interests**     
 
