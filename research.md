@@ -5,7 +5,7 @@ subtitle: Computational Scientist | Oak Ridge National Laboratory
 use-site-title: true
 ---
 
-### **My Research**  
+### **My Research Outline**  
 <p align="center">
   <img width="60%" height="40%" src="/img/research.png">
 </p> 
