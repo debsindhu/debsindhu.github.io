@@ -38,7 +38,7 @@ navbar-links:
     - Grants: "grants"
     - Collaborations: "collaboration" 
   Opportunity: 
-    - Open Position: "open_position" 
+    - Open Position with us: "open_position" 
     - Work at ORNL: "research_opportunity"
   Contact: "contact"
 
