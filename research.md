@@ -10,6 +10,8 @@ use-site-title: true
   <img width="60%" height="40%" src="/img/research.png">
 </p> 
 
+Please take a sneak peek on my research at [Projects](https://debsindhu.github.io/projects/) section.
+
 * General Overview: My current work lies on the interface of implementing Artificial Intelligence (AI) techniques, deploying multi-scale high performance       accelerated simulations and performing scattering experiments (especially neutron and X-Ray) for problems related to 
     * *soft matter systems especially Biomedical and biological sciences*, and   
     * *making new drug molecules with desired properties*. 
