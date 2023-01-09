@@ -19,7 +19,7 @@ use-site-title: true
 
     - <span style="color:blue">Language models for the prediction of SARS-CoV-2 inhibitors </span>             
 _A. E. Blanchard, J. Gounley, __D Bhowmik__, M. C. Shekar, I. Lyngaas, S. Gao, J. Yin, A. Tsaris, F. Wang, and J. Glaser, 
-bioRxiv (to appear on International Journal of High Performance Computing Applications), 2022_  
+International Journal of High Performance Computing Applications, 2022_  
 
     - <span style="color:blue">Automating Genetic Algorithm Mutations for Molecules Using a Masked Language Model</span>             
 _A. E. Blanchard, M. C. Shekar, S. Gao, J. Gounley, I. Lyngaas, J. Glaser, and __D Bhowmik__, 
