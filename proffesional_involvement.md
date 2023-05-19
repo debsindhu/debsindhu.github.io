@@ -10,7 +10,8 @@ use-site-title: true
     - [Publons](https://publons.com/researcher/1194490/debsindhu-bhowmik/) <a href="https://publons.com/researcher/1194490/debsindhu-bhowmik/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Publons_logo.png" height="20"></a>        
 
 * #### **Editor** (showing only publicly viewable)   
-    - [Frontiers in Protein Bioinformatics, Frontiers](https://www.frontiersin.org/journals/bioinformatics/sections/protein-bioinformatics) (Associate Editor)  
+    - [Frontiers in Protein Bioinformatics, Frontiers](https://www.frontiersin.org/journals/bioinformatics/sections/protein-bioinformatics) (Associate Editor)    
+    - [Frontiers in Biological Modeling and Simulation, Frontiers](https://www.frontiersin.org/journals/molecular-biosciences/sections/biological-modeling-and-simulation) (Associate Editor)  
     - [Frontiers in Theoretical and Computational Chemistry, Frontiers](https://www.frontiersin.org/journals/chemistry/sections/theoretical-and-computational-chemistry) (Review Editor)  
     - [Frontiers in Biological Modeling and Simulation, Frontiers](https://www.frontiersin.org/journals/molecular-biosciences/sections/biological-modeling-and-simulation) (Review Editor) 
 
