@@ -193,8 +193,12 @@ Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions
 
 * #### **Conferences** (showing only publicly viewable)    
     - <span style="color:blue">Computational workflow for accelerated molecular design using quantum chemical simulations and deep learning models</span>  
-_A. E. Blanchard, P. Zhang, Debsindhu Bhowmik, K. Mehta, J. Gounley, S. T. Reeve, S. Irle, M. L. Pasini    
-Smoky Mountains Computational Sciences and Engineering Conference, 2022_   
+_A. E. Blanchard, P. Zhang, __D Bhowmik__, K. Mehta, J. Gounley, S. T. Reeve, S. Irle, M. L. Pasini    
+Smoky Mountains Computational Sciences and Engineering Conference, 2023_
+
+    - <span style="color:blue">Secure Collaborative Environment for Seamless Sharing of Scientific Knowledge </span>  
+_S. Yoginath, M. Doucet, __D Bhowmik__, D. Heise, F. Alamudun, H. J. Yoon, C. Stanley    
+Smoky Mountains Computational Sciences and Engineering Conference, 2022_       
 
     - <span style="color:blue">Characterizing KRAS Membrane Structures by Data-Driven Molecular Docking</span>  
 _C B Stanley, Q N Van, F Heinrich, M Losche, __D Bhowmik__, A Ramanathan, C A Lopez, S Gnanakaran, D V Nissley, A G Stephen    
