@@ -38,7 +38,7 @@ _A. E. Blanchard, __D Bhowmik__, Z. Fox, J. Gounley, J. Glaser, B. S. Akpa, S. I
 Journal of Cheminformatics, 2023_  
 
     - <span style="color:blue">Gating interactions steer loop conformational changes in the active site of the L1 metallo-β-lactamase </span>             
-_Z. Zhao, X. Shen, S. Chen, J. Gu, H. Wang, M. F. Mojica, M. Samanta, __D Bhowmik__,, A. J. Vila, R. A. Bonomo, S. Haider, 
+_Z. Zhao, X. Shen, S. Chen, J. Gu, H. Wang, M. F. Mojica, M. Samanta, __D Bhowmik__, A. J. Vila, R. A. Bonomo, S. Haider, 
 Elife, 2023_  
     
     - <span style="color:blue">Language models for the prediction of SARS-CoV-2 inhibitors </span>             
