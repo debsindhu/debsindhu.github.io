@@ -17,6 +17,30 @@ use-site-title: true
 
 * #### **Journals** (showing only publicly viewable)    
 
+    - <span style="color:blue">Enhancing molecular design efficiency: Uniting language models and generative networks with genetic algorithms </span>             
+___D Bhowmik__, P. Zhang, Z. Fox, S. Irle, J. Gounley, 
+Patterns, 2024_   
+
+    - <span style="color:blue">Transferring a molecular foundation model for polymer property predictions </span>             
+_P. Zhang, L. Kearney, __D Bhowmik__, Z. Fox, A. K. Naskar, J. Gounley, 
+Journal of Chemical Information and Modeling, 2023_   
+
+    - <span style="color:blue">Deep learning workflow for the inverse design of molecules with specific optoelectronic properties </span>             
+_P. Yoo, __D Bhowmik__, K. Mehta, P. Zhang, F. Liu, M. L. Pasini, S. Irle, 
+Scientific Reports, 2023_   
+
+    - <span style="color:blue">Structural characterization of an intrinsically disordered protein complex using integrated small-angle neutron scattering and computing </span>             
+_S. H. Chen, K. L. Weiss, C. Stanley, __D Bhowmik__, 
+Protein Science, 2023_   
+
+    - <span style="color:blue">Adaptive language model training for molecular design </span>             
+_A. E. Blanchard, __D Bhowmik__, Z. Fox, J. Gounley, J. Glaser, B. S. Akpa, S. Irle, 
+Journal of Cheminformatics, 2023_  
+
+    - <span style="color:blue">Gating interactions steer loop conformational changes in the active site of the L1 metallo-β-lactamase </span>             
+_Z. Zhao, X. Shen, S. Chen, J. Gu, H. Wang, M. F. Mojica, M. Samanta, __D Bhowmik__,, A. J. Vila, R. A. Bonomo, S. Haider, 
+Elife, 2023_  
+    
     - <span style="color:blue">Language models for the prediction of SARS-CoV-2 inhibitors </span>             
 _A. E. Blanchard, J. Gounley, __D Bhowmik__, M. C. Shekar, I. Lyngaas, S. Gao, J. Yin, A. Tsaris, F. Wang, and J. Glaser, 
 International Journal of High Performance Computing Applications, 2022_  
