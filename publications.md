@@ -292,7 +292,7 @@ PROCEEDINGS OF THE 31st ICRC, ŁODZ 2009_
 ___D Bhowmik__  
 Université Pierre-et-Marie-Curie (University of Paris VI), Paris, France	2011_   
 
-* #### **Talks** (showing only publicly viewable)   
+* #### **Talks (upto 2021)** (showing only publicly viewable)   
     - <span style="color:blue">Distinct Structural Flexibility within SARS-CoV-2 Spike Protein Reveals Potential Therapeutic Targets</span>  
 _IEEE Big Data Conference, December 2021_  
 
@@ -356,7 +356,7 @@ _Journée des doctorants du LLB, CEA-Saclay, June 2011_
     - <span style="color:blue">Behaviour of Tetrabutylammonium ions in aqueous medium and solvent dynamics</span>  
 _Physicochimie des Electrolytes, Colloïdes et Sciences Analytiques (PECSA), UPMC, Paris, Nov 2009_  
 
-* #### **Posters** (showing only publicly viewable)    
+* #### **Posters (upto 2017)** (showing only publicly viewable)    
     - <span style="color:blue">Enhanced dynamics of RNA on Nanodiamonds Surfaces: An effective synergistic study by combining Neutron Scattering, theoretical modeling and MD Simulation</span>  
 ___D Bhowmik__  
 ORPA Research Symposium, Oak Ridge National Laboratory, Aug 2017_   
