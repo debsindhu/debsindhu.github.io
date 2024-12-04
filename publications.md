@@ -192,6 +192,10 @@ ___D Bhowmik__, S Dey, A Maulik, S Raha, S Saha, SK Saha, D Syam
 Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms 2011_  
 
 * #### **Conferences** (showing only publicly viewable)    
+    - <span style="color:blue">Multiscale Digital Twins for Precision Dosimetry and Cell Survival Outcomes in Radiation Treatments</span>  
+_A. J. Kapadia, P. Inman, __D Bhowmik__, M. S. Andriotty, A. H. C. Lim, J. Rajagopal, Z. Aboulbanine, G. A. Agasthya     
+AAPM 66th Annual Meeting & Exhibition, 2024_
+
     - <span style="color:blue">Computational workflow for accelerated molecular design using quantum chemical simulations and deep learning models</span>  
 _A. E. Blanchard, P. Zhang, __D Bhowmik__, K. Mehta, J. Gounley, S. T. Reeve, S. Irle, M. L. Pasini    
 Smoky Mountains Computational Sciences and Engineering Conference, 2023_
