@@ -10,8 +10,8 @@ use-site-title: true
 | Source | Type: _Description_ | Capacity | Duration | Amount |   
 | :------ | :--- | :--- | :--- | :--- | 
 | LDRD/DOE | Project: _In-Silico Targeted Radionuclide Therapy: Designing Inhibitor-Chelator Conjugates s_ | Lead PI | 2025-26 | ~$400000 |   
-| DOE INCITE | Project: _Large-scale Simulations of Functional Lipidomic Asymmetry and Membrane Permeability_ | Lead PI | 2022 | 20000 Frontier, 5000 Andes node hours |   
-| DOE INCITE | Project: _Elastic properties of complex lipidomes_ | Co-I | 2022 | 766000 Frontier, 5000 Andes node hours |  
+| DOE OLCF | Project: _Large-scale Simulations of Functional Lipidomic Asymmetry and Membrane Permeability_ | Lead PI | 2024-25 | 20000 Frontier, 5000 Andes node hours |   
+| DOE INCITE | Project: _Elastic properties of complex lipidomes_ | Co-I | 2025 | 766000 Frontier, 5000 Andes node hours |  
 | DOE | Project: _Low-dose Understanding, Cellular Insights, and Molecular Discoveries (LUCID)_ | Co-I | 2024 | ~$2000000 |  
 | LDRD/DOE | Project: _AISD: AI for Scientific Design & Discovery_ | Co-I | 2022-23 | ~$1600000 |  
 | DOE INCITE | Project: _Scalable Transformer Language Models for Drug Discovery_ | Co-I | 2022 | 390000 SUMMIT node hours |  
